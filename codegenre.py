@@ -1,6 +1,6 @@
 """
 Created on Fri Dec 04 23:44:11 2020
-@author: Leonardo e Igor
+@author: Igor & Leonardo
 """
 
 import warnings

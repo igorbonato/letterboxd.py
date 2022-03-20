@@ -40,16 +40,16 @@ def pages(page, usuario):
     return geral
 
 
-def genre1(path):
-    s = requests.get(path, timeout=5)
-    conteudo = BeautifulSoup(s.content)
-    p = conteudo.select("div.text-sluglist p a")
-    generos = [genero.string for genero in p]
-    if "Show All..." in generos:
-        generos.remove("Show All…")
-    j = conteudo.select("h1.headline-1")
-    nome = [ji.string for ji in j][0]
-    return nome, generos
+# def genre1(path):
+#     s = requests.get(path, timeout=5)
+#     conteudo = BeautifulSoup(s.content)
+#     p = conteudo.select("div.text-sluglist p a")
+#     generos = [genero.string for genero in p]
+#     if "Show All..." in generos:
+#         generos.remove("Show All…")
+#     j = conteudo.select("h1.headline-1")
+#     nome = [ji.string for ji in j][0]
+#     return nome, generos
 
 
 def genre(path):
@@ -106,5 +106,5 @@ def record_lista(filename, lista):
 record("movies_genres.txt", ordenado)
 
 # Para rodar use o seguinte comando no console:
-#   record("nome de seu arquivo.txt",ordenado)
+# record("nome de seu arquivo.txt",ordenado)
 # O arquivo em formato .doc estará salvo na pasta designada.

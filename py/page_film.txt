@@ -1,0 +1,3052 @@
+★★★½
+
+<!DOCTYPE html>
+<!--[if lt IE 7 ]> <html lang="en" class="ie6 lte9 lte8 lte7 lte6 no-js"> <![endif]-->
+<!--[if IE 7 ]>    <html lang="en" class="ie7 lte9 lte8 lte7 no-js"> <![endif]-->
+<!--[if IE 8 ]>    <html lang="en" class="ie8 lte9 lte8 no-js"> <![endif]-->
+<!--[if IE 9 ]>    <html lang="en" class="ie9 lte9 no-js"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<html class="no-mobile no-js" id="html" lang="en">
+ <!--<![endif]-->
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=1024" name="viewport"/>
+  <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"/>
+  <meta content="Over the Christmas holiday, Jules reflects on the year." name="description"/>
+  <meta content="video.movie" property="og:type"/>
+  <meta content="https://letterboxd.com/film/euphoria-fck-anyone-whos-not-a-sea-blob/" property="og:url"/>
+  <meta content="Euphoria: F*ck Anyone Who’s Not a Sea Blob (2021)" property="og:title"/>
+  <meta content="Over the Christmas holiday, Jules reflects on the year." property="og:description"/>
+  <meta content="https://a.ltrbxd.com/resized/sm/upload/8c/dk/qa/qp/37sJVRiXN2qIzDhhw2gs6FF0sov-1200-1200-675-675-crop-000000.jpg?k=24164a32f9" property="og:image"/>
+  <meta content="1200" property="og:image:width"/>
+  <meta content="675" property="og:image:height"/>
+  <meta content="summary_large_image" name="twitter:card"/>
+  <meta content="@letterboxd" name="twitter:site"/>
+  <meta content="https://letterboxd.com/film/euphoria-fck-anyone-whos-not-a-sea-blob/" name="twitter:url"/>
+  <meta content="Euphoria: F*ck Anyone Who’s Not a Sea Blob (2021)" name="twitter:title"/>
+  <meta content="Over the Christmas holiday, Jules reflects on the year." name="twitter:description"/>
+  <meta content="Directed by" name="twitter:label1"/>
+  <meta content="Sam Levinson" name="twitter:data1"/>
+  <meta content="Average rating" name="twitter:label2"/>
+  <meta content="4.37 out of 5" name="twitter:data2"/>
+  <meta content="https://a.ltrbxd.com/resized/sm/upload/8c/dk/qa/qp/37sJVRiXN2qIzDhhw2gs6FF0sov-1200-1200-675-675-crop-000000.jpg?k=24164a32f9" name="twitter:image"/>
+  <meta content="Letterboxd" name="application-name"/>
+  <meta content="#445566" name="theme-color"/>
+  <meta content="#445566" name="msapplication-TileColor"/>
+  <meta content="app-id=1054271011, affiliate-data=11l5KW, app-argument=https://letterboxd.com/film/euphoria-fck-anyone-whos-not-a-sea-blob/" name="apple-itunes-app"/>
+  <meta content="yes" name="mobile-web-app-capable"/>
+  <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-D3ECBB4D7L">
+  </script>
+  <script>
+   window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+	
+		var analytic_params = {};
+		
+		
+analytic_params['user_type'] = 'Visitor';
+		analytic_params['template'] = '/object/film';
+		
+		
+				analytic_params['film_id'] = 'tMkU';
+			
+
+		if (analytic_params.member_type) {
+			gtag('set', 'user_properties', { 
+				member_type: analytic_params.member_type,
+			});
+			delete analytic_params.member_type;
+		}
+		var config = {
+			...analytic_params,
+			'cookie_domain': 'letterboxd.com', 
+			'optimize_id': 'GTM-TB8HSDN', 
+		};
+		gtag('config', 'G-D3ECBB4D7L', config);
+
+		
+		function ga(){}
+  </script>
+  <script>
+   var isMobile = false,
+			isMobileOptimised = true,
+			renderMobile = false,
+			useStaticFonts = false,
+			disableFrameProtection = false;
+  </script>
+  <title>
+   ‎Euphoria: F*ck Anyone Who’s Not a Sea Blob (2021) directed by Sam Levinson • Reviews, film + cast • Letterboxd
+  </title>
+  <link href="/manifest.json" rel="manifest"/>
+  <link href="/humans.txt" rel="author" type="text/plain"/>
+  <link color="#445566" href="https://s.ltrbxd.com/static/img/icons/letterboxd-decal-l-16px.5fe24c7d.svg" rel="mask-icon"/>
+  <link href="https://s.ltrbxd.com/static/img/icons/touch-icon-192x192.257b84e7.png" rel="shortcut icon" sizes="196x196"/>
+  <link href="/favicon.ico" rel="shortcut icon"/>
+  <link href="/static/opensearch.xml" rel="search" title="Letterboxd" type="application/opensearchdescription+xml"/>
+  <!--[if lte IE 9 ]>
+		<link href="https://s.ltrbxd.com/static/css/ie9-1.min.129f76cb.css" rel="stylesheet" media="screen, projection"/>
+		<link href="https://s.ltrbxd.com/static/css/ie9-2.min.3797102c.css" rel="stylesheet" media="screen, projection"/>
+	<![endif]-->
+  <!--[if (gt IE 9)|!(IE)]><!-->
+  <link href="https://s.ltrbxd.com/static/css/main.min.eff3610c.css" media="screen, projection" rel="stylesheet"/>
+  <!--<![endif]-->
+  <!--[if lte IE 6]><script>location.replace("/errors/ie6");</script><![endif]-->
+  <!--[if IE 7]><script>location.replace("/errors/ie7");</script><![endif]-->
+  <!--[if IE 8]><script>location.replace("/errors/ie8");</script><![endif]-->
+  <!--[if IE 9]><script>location.replace("/errors/ie9");</script><![endif]-->
+  <link href="https://s.ltrbxd.com/static/css/desktop.min.251e5698.css" media="screen, projection" rel="stylesheet"/>
+  <script>
+   var baseURL = "";
+		var successMessages = [];
+		var errorMessages = [];
+		var stickyMessages = [];
+		var globals = {
+			autoAddFilm: false			
+			, spinners: {
+				ajax_242d35: 'https://s.ltrbxd.com/static/img/spinner-dark-2x.fda24f88.gif',
+				spinner_12_2C3641: 'https://s.ltrbxd.com/static/img/spinner-dark-2x.fda24f88.gif',
+				spinner_14_20272f: 'https://s.ltrbxd.com/static/img/spinner-dark-2x.fda24f88.gif',
+				spinner_16_161B21: 'https://s.ltrbxd.com/static/img/spinner-dark-2x.fda24f88.gif'
+			}
+		};
+		var supermodelCSRF = "";
+		var gRecaptchaKey = '6Le3mMIUAAAAAEXbwZ7M1R5jEv0V5xbvj7bgXq2g';
+		var person = {
+			username: ""
+			, loggedIn: false
+			
+			, showAds: true
+			, role: "guest"
+			, hasExtendedServiceFilters: false
+			, canBulkAddToLists: false
+			, canFilterOwned: false
+			, hasHqRole: false
+			, canHaveHqDashboard: false
+			, hasMemberStatistics: false
+			, blockedMembers: []
+			, showAdultContent: false
+			, validated: null
+			, trusted: false
+			, hasBlocked : function(member) { for (var i = 0; i !== person.blockedMembers.length; i++) {if (person.blockedMembers[i] === member) return true;} return false; }
+			, viewingTags: []
+			, hasMoreTags: true
+		};
+		var disableAds = false;
+		
+		
+		
+supermodelCSRF = "6fc8828fb49b941005ca";
+
+		
+
+		
+		
+		
+			if ( screen.width < 768 ) {
+				var date = new Date();
+				var maxAge = 365 * 24 * 60 * 60;
+				date.setTime(date.getTime() + maxAge * 1000);
+				var expires = '; expires=' + date.toUTCString();
+				document.cookie = "useMobileSite=yes" + expires + "; path=/; maxAge=" + maxAge;
+				if ( document.cookie && document.cookie.indexOf("useMobileSite=yes") >= 0 ) {
+					window.location.reload(true);
+				} else {
+					// No cookies.  No Mobile version.
+				}
+			}
+		
+
+		var isWindows = navigator.platform.toUpperCase().indexOf('WIN') >= 0; // Detect windows platform
+		if (isWindows) { document.documentElement.classList.add('is-windows'); }
+  </script>
+  <script src="https://s.ltrbxd.com/static/js/main.min.3dc5a7f7.js">
+  </script>
+  <script>
+   if ( $.cookie("letterboxd.admin.signed.in") === person.username ) {
+			successMessages.push("You are signed in as " + person.username);
+			$(function(){$("#header, #content, body").css("background","#543");});
+		}
+  </script>
+  <script>
+   var tyche = {
+			mode: "tyche",
+			config: "//config.playwire.com/1024338/v2/websites/72804/banner.json",
+			passiveMode: false, 
+			
+			custom_tags: [
+				
+				'drama', 
+				'', 
+				'intl_false', 
+				'709732', 
+				'' 
+			],
+			onReady: () => {
+				if (window.onTycheReady) window.onTycheReady(window.tyche)
+			},
+		}
+  </script>
+  <script id="tyche" src="//cdn.intergient.com/pageos/pageos.js">
+  </script>
+  <script async="" src="https://btloader.com/tag?o=5150306120761344&amp;upapi=true">
+  </script>
+ </head>
+ <body class="film backdropped" data-tmdb-id="791815" data-tmdb-type="movie" data-type="film">
+  <div class="backdrop-container">
+   <div class="backdrop-wrapper" data-backdrop="https://a.ltrbxd.com/resized/sm/upload/8c/dk/qa/qp/37sJVRiXN2qIzDhhw2gs6FF0sov-1200-1200-675-675-crop-000000.jpg?k=24164a32f9" data-backdrop2x="https://a.ltrbxd.com/resized/sm/upload/8c/dk/qa/qp/37sJVRiXN2qIzDhhw2gs6FF0sov-1920-1920-1080-1080-crop-000000.jpg?k=a01de65562" data-backdropmobile="https://a.ltrbxd.com/resized/sm/upload/8c/dk/qa/qp/37sJVRiXN2qIzDhhw2gs6FF0sov-960-960-540-540-crop-000000.jpg?k=c890a8923d" data-offset="80" id="backdrop">
+    <div class="backdropplaceholder js-backdrop-placeholder" style="background-image: url(https://a.ltrbxd.com/resized/sm/upload/8c/dk/qa/qp/37sJVRiXN2qIzDhhw2gs6FF0sov-48-48-27-27-crop.png?k=c890a8923d); background-position: center -80px;">
+    </div>
+    <div class="backdropimage js-backdrop-image" style="background-position: center -80px;">
+    </div>
+    <div class="backdropmask js-backdrop-fade">
+    </div>
+   </div>
+  </div>
+  <script>
+   var filmData = { id: 709732, name: "Euphoria: F*ck Anyone Who’s Not a Sea Blob", releaseYear: "2021", posterURL: "
+   ", path: "/film/euphoria-fck-anyone-whos-not-a-sea-blob/" };
+  </script>
+  <script>
+   var mainMenu = [];
+
+	
+	mainMenu.push({
+		"id": 1,
+		"url": "/sign-in/", 
+		"name": "Sign In",
+		"cssClassCode": "sign-in-menu",
+		"hideWhenSignedIn": true,
+		"hideWhenNotSignedIn": false,
+		"showInMainNavForMobile": true,
+		"tooltip": "",
+		"selected": false
+	});
+
+	
+	mainMenu.push({
+		"id": 2,
+		"url": "/create-account/", 
+		"name": "Create Account",
+		"cssClassCode": "create-account-menu",
+		"hideWhenSignedIn": true,
+		"hideWhenNotSignedIn": false,
+		"showInMainNavForMobile": false,
+		"tooltip": "",
+		"selected": false
+	});
+
+	
+	mainMenu.push({
+		"id": 3,
+		"url": "/", 
+		"name": "Home",
+		"cssClassCode": "person-home",
+		"hideWhenSignedIn": true,
+		"hideWhenNotSignedIn": true,
+		"showInMainNavForMobile": false,
+		"tooltip": "",
+		"selected": false
+	});
+
+	
+	mainMenu.push({
+		"id": 4,
+		"url": "/activity/", 
+		"name": "Activity",
+		"cssClassCode": "main-nav-activity",
+		"hideWhenSignedIn": false,
+		"hideWhenNotSignedIn": true,
+		"showInMainNavForMobile": false,
+		"tooltip": "Activity",
+		"selected": false
+	});
+
+	
+	mainMenu.push({
+		"id": 5,
+		"url": "/films/", 
+		"name": "Films",
+		"cssClassCode": "films-page main-nav-films",
+		"hideWhenSignedIn": false,
+		"hideWhenNotSignedIn": false,
+		"showInMainNavForMobile": false,
+		"tooltip": "",
+		"selected": false
+	});
+
+	
+	mainMenu.push({
+		"id": 6,
+		"url": "/lists/", 
+		"name": "Lists",
+		"cssClassCode": "lists-page main-nav-lists",
+		"hideWhenSignedIn": false,
+		"hideWhenNotSignedIn": false,
+		"showInMainNavForMobile": false,
+		"tooltip": "",
+		"selected": false
+	});
+
+	
+	mainMenu.push({
+		"id": 7,
+		"url": "/members/", 
+		"name": "Members",
+		"cssClassCode": "main-nav-people",
+		"hideWhenSignedIn": false,
+		"hideWhenNotSignedIn": false,
+		"showInMainNavForMobile": false,
+		"tooltip": "",
+		"selected": false
+	});
+
+	
+	mainMenu.push({
+		"id": 8,
+		"url": "/journal/", 
+		"name": "Journal",
+		"cssClassCode": "main-nav-journal",
+		"hideWhenSignedIn": false,
+		"hideWhenNotSignedIn": false,
+		"showInMainNavForMobile": false,
+		"tooltip": "",
+		"selected": false
+	});
+
+	
+	mainMenu.push({
+		"id": 9,
+		"url": "/search/", 
+		"name": "Search results",
+		"cssClassCode": "",
+		"hideWhenSignedIn": true,
+		"hideWhenNotSignedIn": true,
+		"showInMainNavForMobile": false,
+		"tooltip": "",
+		"selected": false
+	});
+  </script>
+  <header class="site-header js-hide-in-app" id="header">
+   <div class="site-header-bg">
+   </div>
+   <section>
+    <h1 class="site-logo">
+     <a class="logo replace" href="/">
+      Letterboxd — Your life in film
+     </a>
+    </h1>
+    <div class="react-component" data-component-class="globals.comps.NavComponent">
+    </div>
+    <form action="#" autocapitalize="off" autocorrect="off" class="signin signin-form js-header-signin-form js-signin" data-recaptcha-action="signin" data-url="/user/login.do" id="signin" method="post" novalidate="novalidate">
+     <input name="__csrf" type="hidden" value="placeholder"/>
+     <fieldset class="fieldset">
+      <div class="fields">
+       <div class="col">
+        <label for="username">
+         Username or Email
+        </label>
+        <input autocomplete="email" class="field signin-field" data-focus-control="signingIn" id="username" inputmode="email" name="username" tabindex="1" type="email" value=""/>
+       </div>
+       <div class="col">
+        <label for="password">
+         Password
+        </label>
+        <input autocomplete="current-password" class="field signin-field" id="password" name="password" tabindex="2" type="password" value=""/>
+       </div>
+       <div class="signin-actions">
+        <label class="option-label -checkbox -small" for="remember">
+         <input class="checkbox" id="remember" name="remember" tabindex="3" type="checkbox" value="true"/>
+         <i class="substitute">
+         </i>
+         <span class="focus">
+          Remember
+          <span class="mob-hide">
+           me
+          </span>
+         </span>
+        </label>
+        <p class="reset" tabindex="5">
+         <a class="reset-password-link" href="/user/request-password-reset" target="_top">
+          Forgotten
+          <span class="elongated">
+           password
+          </span>
+          ?
+         </a>
+        </p>
+       </div>
+       <div class="col buttons">
+        <div class="button-container">
+         <input class="button -action button-green" tabindex="4" type="submit" value="Sign in"/>
+         <i>
+         </i>
+        </div>
+        <div class="close js-close-signin">
+         ×
+        </div>
+       </div>
+      </div>
+     </fieldset>
+     <div class="errormessage" id="signin-message">
+     </div>
+    </form>
+    <form action="/search/" autocorrect="off" class="js-search-form search-form" id="search" method="get">
+     <input autocomplete="false" name="hidden" style="display:none;" type="text"/>
+     <fieldset>
+      <label class="hidden" for="search-q">
+       Search:
+      </label>
+      <input class="field -borderless" data-lpignore="true" id="search-q" inputmode="search" name="q" type="text" value=""/>
+      <input class="action" type="submit" value="Search"/>
+     </fieldset>
+    </form>
+   </section>
+  </header>
+  <div class="site-body -backdrop" id="content">
+   <div class="content-wrap">
+    <div class="cols-3 overflow" id="film-page-wrapper">
+     <div class="col-6 gutter-right-1 col-poster-large" id="js-poster-col">
+      <section class="poster-list -p230 -single no-hover el col">
+       <div class="really-lazy-load poster film-poster film-poster-709732" data-cache-busting-key="071149e0" data-context="hero" data-film-id="709732" data-film-slug="/film/euphoria-fck-anyone-whos-not-a-sea-blob/" data-hide-tooltip="true" data-image-height="345" data-image-width="230" data-linked="unlinked" data-show-menu="true" data-target-link="/film/euphoria-fck-anyone-whos-not-a-sea-blob/" data-target-link-target="">
+        <img alt="Euphoria: F*ck Anyone Who’s Not a Sea Blob" class="image" height="345" itemprop="image" src="https://a.ltrbxd.com/resized/sm/upload/vo/i8/ev/22/euphoria-0-230-0-345-crop.jpg?k=6c2c85a323" srcset="https://a.ltrbxd.com/resized/sm/upload/vo/i8/ev/22/euphoria-0-460-0-690-crop.jpg?k=22347f4b63 2x" width="230"/>
+        <span class="frame">
+         <span class="frame-title">
+         </span>
+        </span>
+       </div>
+       <div class="js-serial-csi" data-on-load="" data-src="/esi/film/euphoria-fck-anyone-whos-not-a-sea-blob/stats/">
+        <ul class="film-stats">
+         <li class="stat">
+          <a class="has-icon icon-placeholder">
+          </a>
+         </li>
+        </ul>
+       </div>
+      </section>
+      <div class="js-csi" data-on-load="csi-availability" data-src="/csi/film/euphoria-fck-anyone-whos-not-a-sea-blob/availability/?esiAllowUser=true&amp;esiAllowCountry=true">
+       <section class="watch-panel">
+        <div class="header">
+         <h3 class="title">
+          Where to watch
+         </h3>
+        </div>
+        <div id="watch">
+         <div class="other">
+          <span class="more">
+          </span>
+          <a class="jw-branding" href="https://www.justwatch.com" rel="noopener noreferrer" target="_blank">
+           JustWatch
+          </a>
+         </div>
+        </div>
+       </section>
+      </div>
+      <script id="script-bd2f0740-7667-4ebd-b9a1-1f01909c6c8a">
+       ((tag, target) => { if (!disableAds && person.showAds) { let pwUnit = document.createElement('div'); pwUnit.id = '8b7f5f36-dbd6-40e6-98e2-9f4c28e48f3a'; pwUnit.className = 'pw-div'; pwUnit.setAttribute('data-pw-' + (renderMobile ? 'mobi' : 'desk'), 'sky_btf'); let kicker = [ '<div class="upgrade-kicker -skyscraper js-hide-in-app">', '<button type="button" class="modaltrigger" data-bs-toggle="modal" data-bs-target="#remove-ads-modal">', 'Remove Ads', '<svg aria-hidden="true" width="7" height="7" xmlns="http://www.w3.org/2000/svg"><path d="m.5.5 6 6M6.5.5l-6 6" fill-rule="evenodd" stroke="#000"/></svg>', '</button>', '</div>' ].join(''); if (target) { target.insertAdjacentElement('beforeend', pwUnit); } else { tag.insertAdjacentElement('afterend', pwUnit); } window.addEventListener('DOMContentLoaded', (event) => { pwUnit.insertAdjacentHTML('afterend', kicker); }, { once: true }); } tag.remove(); })(document.getElementById('script-bd2f0740-7667-4ebd-b9a1-1f01909c6c8a'));
+      </script>
+     </div>
+     <div class="col-17">
+      <section class="film-header-lockup -default" id="featured-film-header">
+       <h1 class="headline-1 js-widont prettify">
+        Euphoria: F*ck Anyone Who’s Not a Sea Blob
+       </h1>
+       <p>
+        <small class="number">
+         <a href="/films/year/2021/">
+          2021
+         </a>
+        </small>
+        Directed by
+        <a href="/director/sam-levinson/">
+         <span class="prettify">
+          Sam Levinson
+         </span>
+        </a>
+       </p>
+      </section>
+      <section class="section col-10 col-main">
+       <section>
+        <div class="review body-text -prose -hero prettify">
+         <h3 class="hidden">
+          Synopsis
+         </h3>
+         <h4 class="tagline">
+          Part 2: Jules
+         </h4>
+         <div class="truncate" data-truncate="450">
+          <p>
+           Over the Christmas holiday, Jules reflects on the year.
+          </p>
+         </div>
+        </div>
+        <script id="script-a79245c0-f739-4f46-ae30-ba0567e5d5c9">
+         ((tag, target) => { if (!disableAds && person.showAds) { let pwUnit = document.createElement('div'); pwUnit.id = '109be9b3-1c46-4db5-8e4e-2071967d896b'; pwUnit.className = 'pw-div -tile300x250 -alignleft'; pwUnit.setAttribute('data-pw-' + (renderMobile ? 'mobi' : 'desk'), 'med_rect_btf'); let kicker = [ '<div class="upgrade-kicker -alignleft -med_rect js-hide-in-app">', '<button type="button" class="modaltrigger" data-bs-toggle="modal" data-bs-target="#remove-ads-modal">', 'Remove Ads', '<svg aria-hidden="true" width="7" height="7" xmlns="http://www.w3.org/2000/svg"><path d="m.5.5 6 6M6.5.5l-6 6" fill-rule="evenodd" stroke="#000"/></svg>', '</button>', '</div>' ].join(''); if (target) { target.insertAdjacentElement('beforeend', pwUnit); } else { tag.insertAdjacentElement('afterend', pwUnit); } window.addEventListener('DOMContentLoaded', (event) => { pwUnit.insertAdjacentHTML('afterend', kicker); }, { once: true }); } tag.remove(); })(document.getElementById('script-a79245c0-f739-4f46-ae30-ba0567e5d5c9'));
+        </script>
+       </section>
+       <div data-selected-tab="" id="tabbed-content">
+        <header>
+         <ul>
+          <li>
+           <a data-id="cast" href="/film/euphoria-fck-anyone-whos-not-a-sea-blob/">
+            Cast
+           </a>
+          </li>
+          <li>
+           <a data-id="crew" href="/film/euphoria-fck-anyone-whos-not-a-sea-blob/crew/" id="crew">
+            Crew
+           </a>
+          </li>
+          <li>
+           <a data-id="details" href="/film/euphoria-fck-anyone-whos-not-a-sea-blob/details/">
+            Details
+           </a>
+          </li>
+          <li>
+           <a data-id="genres" href="/film/euphoria-fck-anyone-whos-not-a-sea-blob/genres/">
+            Genres
+           </a>
+          </li>
+         </ul>
+        </header>
+        <div class="tabbed-content-block" id="tab-cast">
+         <h3 class="hidden">
+          Cast
+         </h3>
+         <div class="cast-list text-sluglist">
+          <p>
+           <a class="text-slug tooltip" href="/actor/zendaya/" title="Rue Bennett">
+            Zendaya
+           </a>
+           <a class="text-slug tooltip" href="/actor/hunter-schafer/" title="Jules Vaughn">
+            Hunter Schafer
+           </a>
+           <a class="text-slug tooltip" href="/actor/jacob-elordi/" title="Nate Jacobs">
+            Jacob Elordi
+           </a>
+           <a class="text-slug tooltip" href="/actor/john-ales/" title="David Vaughn">
+            John Ales
+           </a>
+           <a class="text-slug tooltip" href="/actor/pell-james/" title="Amy">
+            Pell James
+           </a>
+           <a class="text-slug tooltip" href="/actor/lauren-weedman/" title="Dr. Marcy Nichols">
+            Lauren Weedman
+           </a>
+           <a class="text-slug tooltip" href="/actor/jayden-marcos/" title="Tyler">
+            Jayden Marcos
+           </a>
+          </p>
+         </div>
+        </div>
+        <div class="tabbed-content-block column-block" id="tab-crew">
+         <h3>
+          <span>
+           Director
+          </span>
+         </h3>
+         <div class="text-sluglist">
+          <p>
+           <a class="text-slug" href="/director/sam-levinson/">
+            Sam Levinson
+           </a>
+          </p>
+         </div>
+         <h3>
+          <span>
+           Producers
+          </span>
+         </h3>
+         <div class="text-sluglist">
+          <p>
+           <a class="text-slug" href="/producer/sam-levinson/">
+            Sam Levinson
+           </a>
+           <a class="text-slug" href="/producer/drake-1/">
+            Drake
+           </a>
+           <a class="text-slug" href="/producer/zendaya/">
+            Zendaya
+           </a>
+          </p>
+         </div>
+         <h3>
+          <span>
+           Writers
+          </span>
+         </h3>
+         <div class="text-sluglist">
+          <p>
+           <a class="text-slug" href="/writer/sam-levinson/">
+            Sam Levinson
+           </a>
+           <a class="text-slug" href="/writer/hunter-schafer/">
+            Hunter Schafer
+           </a>
+          </p>
+         </div>
+         <h3>
+          <span>
+           Composer
+          </span>
+         </h3>
+         <div class="text-sluglist">
+          <p>
+           <a class="text-slug" href="/composer/labrinth/">
+            Labrinth
+           </a>
+          </p>
+         </div>
+        </div>
+        <div class="tabbed-content-block column-block" id="tab-details">
+         <h3>
+          <span>
+           Language
+          </span>
+         </h3>
+         <div class="text-sluglist">
+          <p>
+           <a class="text-slug" href="/films/language/english/">
+            English
+           </a>
+          </p>
+         </div>
+        </div>
+        <div class="tabbed-content-block column-block" id="tab-genres">
+         <h3>
+          <span>
+           Genre
+          </span>
+         </h3>
+         <div class="text-sluglist capitalize">
+          <p>
+           <a class="text-slug" href="/films/genre/drama/">
+            drama
+           </a>
+          </p>
+         </div>
+        </div>
+       </div>
+       <p class="text-link text-footer">
+        48 mins  
+					
+						More at
+        <a class="micro-button track-event" data-track-action="IMDb" href="http://www.imdb.com/title/tt13608984/maindetails">
+         IMDb
+        </a>
+        <a class="micro-button track-event" data-track-action="TMDb" href="https://www.themoviedb.org/movie/791815/">
+         TMDb
+        </a>
+        <span class="report-link has-icon icon-report hide-when-logged-out tooltip tooltip-close-on-click" data-report-url="/ajax/film:709732/report-form" title="Report this film">
+         Report this film
+        </span>
+       </p>
+      </section>
+      <aside class="sidebar">
+       <section class="actions-panel" id="userpanel">
+        <ul class="js-actions-panel">
+         <span class="js-csi" data-on-load="" data-src="/csi/film/euphoria-fck-anyone-whos-not-a-sea-blob/sidebar-user-actions/?esiAllowUser=true">
+         </span>
+         <li class="panel-sharing sharing-toggle js-actions-panel-sharing">
+          <button aria-controls="sharing-toggle-body-709732" aria-expanded="false" class="trigger" type="button">
+           Share
+          </button>
+          <div class="body" id="sharing-toggle-body-709732">
+           <div class="urlgroup">
+            <input id="url-field-709732" readonly="" spellcheck="false" type="text" value="https://boxd.it/tMkU"/>
+            <button class="button clipboardtrigger has-icon" data-clipboard-target="#url-field-709732" data-sharer-type="link">
+             <span class="label">
+              Copy URL to Clipboard
+             </span>
+             <span class="icon">
+             </span>
+            </button>
+           </div>
+           <a class="shareitem -link -twitter" data-sharer-type="twitter" href="https://twitter.com/intent/tweet?text=Euphoria%3A%20F*ck%20Anyone%20Who%E2%80%99s%20Not%20a%20Sea%20Blob%20%282021%29%20on%20%40letterboxd%3A%20https%3A%2F%2Fboxd.it%2FtMkU" rel="noreferrer" title="Tweet a link">
+            <span class="label">
+             Tweet a link
+            </span>
+            <span class="icon">
+            </span>
+           </a>
+           <a class="shareitem -link -facebook" data-sharer-type="facebook" href="https://www.facebook.com/dialog/feed?app_id=173683136069040&amp;display=popup&amp;link=https%3A%2F%2Fletterboxd.com%2Ffilm%2Feuphoria-fck-anyone-whos-not-a-sea-blob%2F&amp;redirect_uri=https://letterboxd.com/facebook-share" rel="noreferrer" title="Share to Facebook">
+            <span class="label">
+             Share to Facebook
+            </span>
+            <span class="icon">
+            </span>
+           </a>
+          </div>
+         </li>
+        </ul>
+       </section>
+       <div class="js-csi" data-on-load="" data-src="/csi/film/euphoria-fck-anyone-whos-not-a-sea-blob/rating-histogram/">
+       </div>
+      </aside>
+      <div class="js-csi" data-on-load="" data-src="/csi/film/euphoria-fck-anyone-whos-not-a-sea-blob/friend-activity/?esiAllowUser=true">
+      </div>
+      <div class="js-csi" data-on-load="" data-src="/csi/film/euphoria-fck-anyone-whos-not-a-sea-blob/news/?esiAllowUser=true&amp;esiAllowCountry=true">
+      </div>
+      <section class="film-recent-reviews">
+       <div class="js-csi" data-on-load="csi-friend-reviews" data-src="/csi/film/euphoria-fck-anyone-whos-not-a-sea-blob/friend-reviews/?esiAllowUser=true">
+       </div>
+       <section class="film-reviews section" data-how-many="12" data-url="/ajax/euphoria-fck-anyone-whos-not-a-sea-blob/popular-reviews/" id="popular-reviews">
+        <h2 class="section-heading">
+         <a href="/film/euphoria-fck-anyone-whos-not-a-sea-blob/reviews/by/activity/">
+          Popular reviews
+         </a>
+        </h2>
+        <a class="all-link" href="/film/euphoria-fck-anyone-whos-not-a-sea-blob/reviews/by/activity/">
+         More
+        </a>
+        <ul class="film-popular-review">
+         <li class="film-detail" data-person="murielcampos" data-viewing-id="147525137">
+          <a class="avatar -a40" href="/murielcampos/">
+           <img alt="muriel" height="40" src="https://a.ltrbxd.com/resized/avatar/upload/6/0/9/5/3/7/shard/avtr-0-80-0-80-crop.jpg?k=3bdee3b2a0" width="40"/>
+          </a>
+          <div class="film-detail-content">
+           <div class="attribution-block -large">
+            <p class="attribution">
+             <a class="context" href="/murielcampos/film/euphoria-fck-anyone-whos-not-a-sea-blob/" title="Read muriel’s review">
+              Review by
+              <strong class="name">
+               muriel
+              </strong>
+             </a>
+            </p>
+           </div>
+           <div class="body-text -prose collapsible-text" data-full-text-url="/s/full-text/viewing:147525137/">
+            <p>
+             they need to let hunter schafer into that writers room PERMANENTLY
+            </p>
+           </div>
+           <p class="like-link-target react-component -monotone" data-component-class="globals.comps.LikeLinkComponent" data-format="svg" data-likeable="true" data-likeable-name="review" data-likeable-uid="viewing:147525137" data-likes-page="/murielcampos/film/euphoria-fck-anyone-whos-not-a-sea-blob/likes/" data-owner="murielcampos">
+            <span class="svg-action -like">
+            </span>
+           </p>
+          </div>
+         </li>
+         <li class="film-detail" data-person="miovies" data-viewing-id="147578202">
+          <a class="avatar -a40" href="/miovies/">
+           <img alt="molly" height="40" src="https://a.ltrbxd.com/resized/avatar/upload/1/1/3/2/8/1/7/shard/avtr-0-80-0-80-crop.jpg?k=671d67765b" width="40"/>
+          </a>
+          <div class="film-detail-content">
+           <div class="attribution-block -large">
+            <p class="attribution">
+             <a class="context" href="/miovies/film/euphoria-fck-anyone-whos-not-a-sea-blob/" title="Read molly’s review">
+              Review by
+              <strong class="name">
+               molly
+              </strong>
+             </a>
+             <span class="rating -green rated-10">
+              ★★★★★
+             </span>
+             <span class="content-metadata">
+              <a class="has-icon icon-comment icon-16 comment-count" href="/miovies/film/euphoria-fck-anyone-whos-not-a-sea-blob/">
+               19
+              </a>
+             </span>
+            </p>
+           </div>
+           <div class="body-text -prose collapsible-text" data-full-text-url="/s/full-text/viewing:147578202/">
+            <p>
+             Jules Vaughn is the perfect example of what it's like to feel like a trans girl. There's no other media that has a character being this honest about their transness. Jules is a trans girl that doesn't wanna fit into the cis gendered norms of what it is to be a woman, she's willing to be herself instead. What Hunter Schafer has been allowed to contribute with to the character of Jules is the best thing that has ever happened to trans media. I'm so thankful to have this character in my life.
+            </p>
+           </div>
+           <p class="like-link-target react-component -monotone" data-component-class="globals.comps.LikeLinkComponent" data-format="svg" data-likeable="true" data-likeable-name="review" data-likeable-uid="viewing:147578202" data-likes-page="/miovies/film/euphoria-fck-anyone-whos-not-a-sea-blob/likes/" data-owner="miovies">
+            <span class="svg-action -like">
+            </span>
+           </p>
+          </div>
+         </li>
+         <li class="film-detail" data-person="suspirliam" data-viewing-id="147577288">
+          <a class="avatar -a40" href="/suspirliam/">
+           <img alt="˗ˏˋ Liam ˊˎ˗" height="40" src="https://a.ltrbxd.com/resized/avatar/twitter/4/3/4/0/8/4/shard/http___pbs.twimg.com_profile_images_1250026712919937026_B7KZsppT-0-80-0-80-crop.jpg?k=9f4e2e138d" width="40"/>
+          </a>
+          <div class="film-detail-content">
+           <div class="attribution-block -large">
+            <p class="attribution">
+             <a class="context" href="/suspirliam/film/euphoria-fck-anyone-whos-not-a-sea-blob/" title="Read ˗ˏˋ Liam ˊˎ˗’s review">
+              Review by
+              <strong class="name">
+               ˗ˏˋ Liam ˊˎ˗
+              </strong>
+             </a>
+             <span class="rating -green rated-10">
+              ★★★★★
+             </span>
+             <span class="content-metadata">
+              <a class="has-icon icon-comment icon-16 comment-count" href="/suspirliam/film/euphoria-fck-anyone-whos-not-a-sea-blob/">
+               13
+              </a>
+             </span>
+            </p>
+           </div>
+           <div class="body-text -prose collapsible-text" data-full-text-url="/s/full-text/viewing:147577288/">
+            <p>
+             no it’s true i cried from when liability started playing and just didn’t stop crying until it was over this was absolutely incredible i am broken!!! it feels so honest and essential i’m so glad we finally got to see jules’ genuine point of view with her telling her own narrative yeah hunter is coming for that emmy next you’ll see
+            </p>
+           </div>
+           <p class="like-link-target react-component -monotone" data-component-class="globals.comps.LikeLinkComponent" data-format="svg" data-likeable="true" data-likeable-name="review" data-likeable-uid="viewing:147577288" data-likes-page="/suspirliam/film/euphoria-fck-anyone-whos-not-a-sea-blob/likes/" data-owner="suspirliam">
+            <span class="svg-action -like">
+            </span>
+           </p>
+          </div>
+         </li>
+         <li class="film-detail" data-person="Roberto_" data-viewing-id="148103010">
+          <a class="avatar -a40" href="/roberto_/">
+           <img alt="Roberto_" height="40" src="https://a.ltrbxd.com/resized/avatar/twitter/6/1/9/5/7/9/shard/blob-0-80-0-80-crop.png?k=bfec542fe4" width="40"/>
+          </a>
+          <div class="film-detail-content">
+           <div class="attribution-block -large">
+            <p class="attribution">
+             <a class="context" href="/roberto_/film/euphoria-fck-anyone-whos-not-a-sea-blob/1/" title="Read Roberto_’s review">
+              Review by
+              <strong class="name">
+               Roberto_
+              </strong>
+             </a>
+             <span class="rating -green rated-6">
+              ★★★
+             </span>
+             <span class="content-metadata">
+              <a class="has-icon icon-comment icon-16 comment-count" href="/roberto_/film/euphoria-fck-anyone-whos-not-a-sea-blob/1/">
+               5
+              </a>
+             </span>
+            </p>
+           </div>
+           <div class="body-text -prose collapsible-text" data-full-text-url="/s/full-text/viewing:148103010/">
+            <p>
+             bitches be like “i'm fine” but then
+            </p>
+            <p>
+             <i>
+              liability
+             </i>
+             <br/>
+             <i>
+              lorde
+             </i>
+             <br/>
+             2:01 ━━━━━━❍─── 2:53
+             <br/>
+             ↻ ⊲ Ⅱ ⊳ ↺
+            </p>
+            <p>
+             volume: ▁▂▃▄▅▆▇ 100%
+            </p>
+           </div>
+           <p class="like-link-target react-component -monotone" data-component-class="globals.comps.LikeLinkComponent" data-format="svg" data-likeable="true" data-likeable-name="review" data-likeable-uid="viewing:148103010" data-likes-page="/roberto_/film/euphoria-fck-anyone-whos-not-a-sea-blob/1/likes/" data-owner="Roberto_">
+            <span class="svg-action -like">
+            </span>
+           </p>
+          </div>
+         </li>
+         <li class="film-detail" data-person="ianamurray" data-viewing-id="147600005">
+          <a class="avatar -a40" href="/ianamurray/">
+           <img alt="iana" height="40" src="https://a.ltrbxd.com/resized/avatar/twitter/2/6/8/0/9/3/shard/http___pbs.twimg.com_profile_images_1416726536271577090_wEYMkoIK-0-80-0-80-crop.jpg?k=c92a64af3b" width="40"/>
+          </a>
+          <div class="film-detail-content">
+           <div class="attribution-block -large">
+            <p class="attribution">
+             <a class="context" href="/ianamurray/film/euphoria-fck-anyone-whos-not-a-sea-blob/" title="Read iana’s review">
+              Review by
+              <strong class="name">
+               iana
+              </strong>
+             </a>
+            </p>
+           </div>
+           <div class="body-text -prose collapsible-text" data-full-text-url="/s/full-text/viewing:147600005/">
+            <p>
+             sam levinson needs to stop writing euphoria hunter is superior in every way
+            </p>
+           </div>
+           <p class="like-link-target react-component -monotone" data-component-class="globals.comps.LikeLinkComponent" data-format="svg" data-likeable="true" data-likeable-name="review" data-likeable-uid="viewing:147600005" data-likes-page="/ianamurray/film/euphoria-fck-anyone-whos-not-a-sea-blob/likes/" data-owner="ianamurray">
+            <span class="svg-action -like">
+            </span>
+           </p>
+          </div>
+         </li>
+         <li class="film-detail" data-person="jay" data-viewing-id="147592477">
+          <a class="avatar -a40" href="/jay/">
+           <img alt="Jay" height="40" src="https://a.ltrbxd.com/resized/avatar/upload/3/9/3/4/3/7/shard/avtr-0-80-0-80-crop.jpg?k=9845561f3a" width="40"/>
+          </a>
+          <div class="film-detail-content">
+           <div class="attribution-block -large">
+            <p class="attribution">
+             <a class="context" href="/jay/film/euphoria-fck-anyone-whos-not-a-sea-blob/" title="Read Jay’s review">
+              Review by
+              <strong class="name">
+               Jay
+              </strong>
+             </a>
+             <span class="content-metadata">
+              <a class="has-icon icon-comment icon-16 comment-count" href="/jay/film/euphoria-fck-anyone-whos-not-a-sea-blob/">
+               1
+              </a>
+             </span>
+            </p>
+           </div>
+           <div class="body-text -prose collapsible-text" data-full-text-url="/s/full-text/viewing:147592477/">
+            <p>
+             jules: i have done nothing wrong ever in my life
+            </p>
+            <p>
+             me: i know this and i love you
+            </p>
+           </div>
+           <p class="like-link-target react-component -monotone" data-component-class="globals.comps.LikeLinkComponent" data-format="svg" data-likeable="true" data-likeable-name="review" data-likeable-uid="viewing:147592477" data-likes-page="/jay/film/euphoria-fck-anyone-whos-not-a-sea-blob/likes/" data-owner="jay">
+            <span class="svg-action -like">
+            </span>
+           </p>
+          </div>
+         </li>
+         <li class="film-detail" data-person="spicyboyivy" data-viewing-id="147499784">
+          <a class="avatar -a40" href="/spicyboyivy/">
+           <img alt="ivy wolk" height="40" src="https://secure.gravatar.com/avatar/b30645b87152eae66eecf3d4c15a5181?rating=PG&amp;size=80&amp;border=&amp;default=https%3A%2F%2Fs.ltrbxd.com%2Fstatic%2Fimg%2Favatar80.74798e0d.png" width="40"/>
+          </a>
+          <div class="film-detail-content">
+           <div class="attribution-block -large">
+            <p class="attribution">
+             <a class="context" href="/spicyboyivy/film/euphoria-fck-anyone-whos-not-a-sea-blob/" title="Read ivy wolk’s review">
+              Review by
+              <strong class="name">
+               ivy wolk
+              </strong>
+             </a>
+             <span class="rating -green rated-10">
+              ★★★★★
+             </span>
+             <span class="content-metadata">
+              <a class="has-icon icon-comment icon-16 comment-count" href="/spicyboyivy/film/euphoria-fck-anyone-whos-not-a-sea-blob/">
+               2
+              </a>
+             </span>
+            </p>
+           </div>
+           <div class="body-text -prose collapsible-text" data-full-text-url="/s/full-text/viewing:147499784/">
+            <p>
+             holy shit. jules vaughn defense squad
+            </p>
+           </div>
+           <p class="like-link-target react-component -monotone" data-component-class="globals.comps.LikeLinkComponent" data-format="svg" data-likeable="true" data-likeable-name="review" data-likeable-uid="viewing:147499784" data-likes-page="/spicyboyivy/film/euphoria-fck-anyone-whos-not-a-sea-blob/likes/" data-owner="spicyboyivy">
+            <span class="svg-action -like">
+            </span>
+           </p>
+          </div>
+         </li>
+         <li class="film-detail" data-person="adasrta" data-viewing-id="147515813">
+          <a class="avatar -a40" href="/adasrta/">
+           <img alt="z" height="40" src="https://a.ltrbxd.com/resized/avatar/twitter/1/3/5/9/7/1/6/shard//http___pbs.twimg.com_profile_images_1233117780464979968_e0v74WXM-0-80-0-80-crop.jpg?k=14da63e426" width="40"/>
+          </a>
+          <div class="film-detail-content">
+           <div class="attribution-block -large">
+            <p class="attribution">
+             <a class="context" href="/adasrta/film/euphoria-fck-anyone-whos-not-a-sea-blob/" title="Read z’s review">
+              Review by
+              <strong class="name">
+               z
+              </strong>
+             </a>
+             <span class="rating -green rated-9">
+              ★★★★½
+             </span>
+            </p>
+           </div>
+           <div class="body-text -prose collapsible-text" data-full-text-url="/s/full-text/viewing:147515813/">
+            <p>
+             the lorde needle drop triggered my fight or flight response
+            </p>
+           </div>
+           <p class="like-link-target react-component -monotone" data-component-class="globals.comps.LikeLinkComponent" data-format="svg" data-likeable="true" data-likeable-name="review" data-likeable-uid="viewing:147515813" data-likes-page="/adasrta/film/euphoria-fck-anyone-whos-not-a-sea-blob/likes/" data-owner="adasrta">
+            <span class="svg-action -like">
+            </span>
+           </p>
+          </div>
+         </li>
+         <li class="film-detail" data-person="demiadejuyigbe" data-viewing-id="239492603">
+          <a class="avatar -a40" href="/demiadejuyigbe/">
+           <img alt="demi adejuyigbe" height="40" src="https://a.ltrbxd.com/resized/avatar/upload/2/4/3/0/5/shard/avtr-0-80-0-80-crop.jpg?k=b99be99f83" width="40"/>
+          </a>
+          <div class="film-detail-content">
+           <div class="attribution-block -large">
+            <p class="attribution">
+             <a class="context" href="/demiadejuyigbe/film/euphoria-fck-anyone-whos-not-a-sea-blob/" title="Read demi adejuyigbe’s review">
+              Review by
+              <strong class="name">
+               demi adejuyigbe
+              </strong>
+             </a>
+             <span class="content-metadata">
+              <a class="has-icon icon-comment icon-16 comment-count" href="/demiadejuyigbe/film/euphoria-fck-anyone-whos-not-a-sea-blob/">
+               4
+              </a>
+             </span>
+            </p>
+           </div>
+           <div class="body-text -prose collapsible-text" data-full-text-url="/s/full-text/viewing:239492603/">
+            <div class="collapsed-text">
+             <p>
+              Oh, I liked this one better! I think Euphoria is such a mixed bag for me because it presents everything from Rue’s POV, which means a lot of it is told from the smarmy, faux-wise perspective of a kid that thinks they know everything– this justifies a lot of the stylistic choices, but it also makes me feel like I’m not really watching a high school drama. Like yeah yeah, drugs and sex are not the sole focuses of most high school experiences, I do agree with that common criticism, but more importantly: no one in high school is this smart. No one is as intuitive or as understanding or as knowledgeable or as tactically manipulative as these characters. Makes…
+             </p>
+            </div>
+           </div>
+           <p class="like-link-target react-component -monotone" data-component-class="globals.comps.LikeLinkComponent" data-format="svg" data-likeable="true" data-likeable-name="review" data-likeable-uid="viewing:239492603" data-likes-page="/demiadejuyigbe/film/euphoria-fck-anyone-whos-not-a-sea-blob/likes/" data-owner="demiadejuyigbe">
+            <span class="svg-action -like">
+            </span>
+           </p>
+          </div>
+         </li>
+         <li class="film-detail" data-person="filmmefatale" data-viewing-id="147431590">
+          <a class="avatar -a40" href="/filmmefatale/">
+           <img alt="Eliana Victoria Alcouloumre" height="40" src="https://secure.gravatar.com/avatar/079787221e98cdbf713fd72ed2e59547?rating=PG&amp;size=80&amp;border=&amp;default=https%3A%2F%2Fs.ltrbxd.com%2Fstatic%2Fimg%2Favatar80.74798e0d.png" width="40"/>
+          </a>
+          <div class="film-detail-content">
+           <div class="attribution-block -large">
+            <p class="attribution">
+             <a class="context" href="/filmmefatale/film/euphoria-fck-anyone-whos-not-a-sea-blob/" title="Read Eliana Victoria Alcouloumre’s review">
+              Review by
+              <strong class="name">
+               Eliana Victoria Alcouloumre
+              </strong>
+             </a>
+             <span class="content-metadata">
+              <a class="has-icon icon-comment icon-16 comment-count" href="/filmmefatale/film/euphoria-fck-anyone-whos-not-a-sea-blob/">
+               10
+              </a>
+             </span>
+            </p>
+           </div>
+           <div class="body-text -prose collapsible-text" data-full-text-url="/s/full-text/viewing:147431590/">
+            <div class="collapsed-text">
+             <p>
+              Everyone who knows me knows that working on
+              <i>
+               Euphoria
+              </i>
+              has been one of the most instrumental parts of my life. It has influenced not only who I am as a creative, but also as a person.
+             </p>
+             <p>
+              Returning to this family after so many months apart was probably the most emotionally fulfilling part of 2020 for me. When the whole cast and crew reunited last February for a camera test ahead of season 2, we couldn't have dreamed that our plan of spending the entire year together would turn into an indefinite amount of time apart. When we finally came back for Rue's episode in September, it was like the warmest hug I could have ever received (even though we had…
+             </p>
+            </div>
+           </div>
+           <p class="like-link-target react-component -monotone" data-component-class="globals.comps.LikeLinkComponent" data-format="svg" data-likeable="true" data-likeable-name="review" data-likeable-uid="viewing:147431590" data-likes-page="/filmmefatale/film/euphoria-fck-anyone-whos-not-a-sea-blob/likes/" data-owner="filmmefatale">
+            <span class="svg-action -like">
+            </span>
+           </p>
+          </div>
+         </li>
+         <li class="film-detail" data-person="sapphical" data-viewing-id="147581026">
+          <a class="avatar -a40" href="/sapphical/">
+           <img alt="aliyah" height="40" src="https://secure.gravatar.com/avatar/96cdc29ae916960042646e3a479752d0?rating=PG&amp;size=80&amp;border=&amp;default=https%3A%2F%2Fs.ltrbxd.com%2Fstatic%2Fimg%2Favatar80.74798e0d.png" width="40"/>
+          </a>
+          <div class="film-detail-content">
+           <div class="attribution-block -large">
+            <p class="attribution">
+             <a class="context" href="/sapphical/film/euphoria-fck-anyone-whos-not-a-sea-blob/" title="Read aliyah’s review">
+              Review by
+              <strong class="name">
+               aliyah
+              </strong>
+             </a>
+             <span class="rating -green rated-10">
+              ★★★★★
+             </span>
+             <span class="content-metadata">
+              <a class="has-icon icon-comment icon-16 comment-count" href="/sapphical/film/euphoria-fck-anyone-whos-not-a-sea-blob/">
+               1
+              </a>
+             </span>
+            </p>
+           </div>
+           <div class="body-text -prose collapsible-text" data-full-text-url="/s/full-text/viewing:147581026/">
+            <div class="collapsed-text">
+             <p>
+              absolutely remarkable in the most visceral of ways; euphoria: fuck anyone who’s not a sea blob is a cathartic, compelling and emotionally rigorous insight into jules’ life of mind. hunter schafer’s voice echoes distinctly through this special episode in carving a most delicate and complex portrait of the incredible character that is jules vaughn.
+             </p>
+             <p>
+              i can only hope that future episodes of euphoria will be treated with the same level of care as these two special episodes have been subject to, as this is without a doubt the most nuanced, nurturing and indulgent portrayal of jules that we have seen so far, and schafer without a doubt flourishes within what she has brought of herself to her character. the perspective…
+             </p>
+            </div>
+           </div>
+           <p class="like-link-target react-component -monotone" data-component-class="globals.comps.LikeLinkComponent" data-format="svg" data-likeable="true" data-likeable-name="review" data-likeable-uid="viewing:147581026" data-likes-page="/sapphical/film/euphoria-fck-anyone-whos-not-a-sea-blob/likes/" data-owner="sapphical">
+            <span class="svg-action -like">
+            </span>
+           </p>
+          </div>
+         </li>
+         <li class="film-detail" data-person="Alor" data-viewing-id="148121111">
+          <a class="avatar -a40" href="/alor/">
+           <img alt="Alor" height="40" src="https://a.ltrbxd.com/resized/avatar/upload/3/0/1/3/6/2/9/shard/avtr-0-80-0-80-crop.jpg?k=15b551e964" width="40"/>
+          </a>
+          <div class="film-detail-content">
+           <div class="attribution-block -large">
+            <p class="attribution">
+             <a class="context" href="/alor/film/euphoria-fck-anyone-whos-not-a-sea-blob/" title="Read Alor’s review">
+              Review by
+              <strong class="name">
+               Alor
+              </strong>
+             </a>
+             <span class="rating -green rated-9">
+              ★★★★½
+             </span>
+            </p>
+           </div>
+           <div class="body-text -prose collapsible-text" data-full-text-url="/s/full-text/viewing:148121111/">
+            <p>
+             Kinda hard to believe that Euphoria is Hunter's debut at acting and now writing too. So talented!!
+            </p>
+           </div>
+           <p class="like-link-target react-component -monotone" data-component-class="globals.comps.LikeLinkComponent" data-format="svg" data-likeable="true" data-likeable-name="review" data-likeable-uid="viewing:148121111" data-likes-page="/alor/film/euphoria-fck-anyone-whos-not-a-sea-blob/likes/" data-owner="Alor">
+            <span class="svg-action -like">
+            </span>
+           </p>
+          </div>
+         </li>
+        </ul>
+       </section>
+       <div class="js-csi" data-on-load="csi-recent-reviews" data-src="/csi/film/euphoria-fck-anyone-whos-not-a-sea-blob/recent-reviews/">
+       </div>
+       <div class="js-csi" data-on-load="csi-liked-reviews" data-src="/csi/film/euphoria-fck-anyone-whos-not-a-sea-blob/liked-reviews/?esiAllowUser=true">
+       </div>
+      </section>
+      <div class="js-csi" data-on-load="csi-popular-lists" data-src="/csi/film/euphoria-fck-anyone-whos-not-a-sea-blob/popular-lists/">
+      </div>
+     </div>
+     <div class="clear">
+     </div>
+    </div>
+   </div>
+  </div>
+  <footer class="page-footer js-page-footer js-hide-in-app" id="page-footer">
+   <div class="content-wrap">
+    <nav class="footer-nav js-footer-nav">
+     <ul>
+      <li>
+       <a href="/about/">
+        About
+       </a>
+      </li>
+      <li>
+       <a href="/journal/">
+        News
+       </a>
+      </li>
+      <li class="js-hide-in-app">
+       <a href="/pro/">
+        Pro
+       </a>
+      </li>
+      <li>
+       <a href="/apps/">
+        Apps
+       </a>
+      </li>
+      <li>
+       <a href="https://letterboxd.show" rel="noopener noreferrer" target="_blank">
+        Podcast
+       </a>
+      </li>
+      <li>
+       <a href="/year-in-review/">
+        Year in Review
+       </a>
+      </li>
+      <li>
+       <a href="/gift-guide/">
+        Gift Guide
+       </a>
+      </li>
+      <li>
+       <a href="/welcome/">
+        Help
+       </a>
+      </li>
+      <li>
+       <a href="/legal/terms-of-use/">
+        Terms
+       </a>
+      </li>
+      <li>
+       <a href="/api-beta/">
+        API
+       </a>
+      </li>
+      <li>
+       <a href="/contact/">
+        Contact
+       </a>
+      </li>
+     </ul>
+    </nav>
+    <div class="socials">
+     <nav class="social-service-list -inline">
+      <div class="listitem -icononly">
+       <a class="trigger tooltip" href="https://twitter.com/letterboxd" rel="noopener noreferrer" target="_blank" title="Letterboxd on Twitter">
+        <svg aria-hidden="true" class="glyph" height="16" role="presentation" width="20" xmlns="http://www.w3.org/2000/svg">
+         <path d="M17.96 4.51V4c.8-.56 1.49-1.28 2.04-2.1-.74.33-1.53.54-2.36.65.85-.5 1.5-1.3 1.8-2.24-.78.46-1.66.8-2.6.98a4.13 4.13 0 0 0-7.1 2.76c0 .31.04.62.1.92A11.72 11.72 0 0 1 1.38.74a3.99 3.99 0 0 0 1.28 5.4A4.2 4.2 0 0 1 .8 5.62v.06c0 1.95 1.42 3.59 3.29 3.96a4.06 4.06 0 0 1-1.85.07 4.1 4.1 0 0 0 3.83 2.8A8.32 8.32 0 0 1 0 14.2C1.8 15.33 3.97 16 6.28 16A11.5 11.5 0 0 0 17.96 4.51Z">
+         </path>
+        </svg>
+        <span class="label">
+         Twitter
+        </span>
+       </a>
+      </div>
+      <div class="listitem -icononly">
+       <a class="trigger tooltip" href="https://www.facebook.com/letterboxd" rel="noopener noreferrer" target="_blank" title="Letterboxd on Facebook">
+        <svg aria-hidden="true" class="glyph" height="19" role="presentation" width="19" xmlns="http://www.w3.org/2000/svg">
+         <path d="M9.5 0a9.5 9.5 0 0 0-1.48 18.89V12H5.6V9.25h2.42V7.41c0-2.38 1.41-3.7 3.58-3.7 1.04 0 2.13.19 2.13.19v2.33h-1.2c-1.18 0-1.54.74-1.54 1.49v1.53h2.63L13.2 12h-2.21v6.89A9.5 9.5 0 0 0 9.5 0Z">
+         </path>
+        </svg>
+        <span class="label">
+         Facebook
+        </span>
+       </a>
+      </div>
+      <div class="listitem -icononly">
+       <a class="trigger tooltip" href="https://www.instagram.com/letterboxd" rel="noopener noreferrer" target="_blank" title="Letterboxd on Instagram">
+        <svg aria-hidden="true" class="glyph" height="20" role="presentation" width="20" xmlns="http://www.w3.org/2000/svg">
+         <path d="M14.12.06c1.07.05 1.8.22 2.43.46.66.26 1.21.6 1.77 1.16.56.55.9 1.11 1.15 1.77.25.63.42 1.36.47 2.43.04.94.06 1.32.06 3.3v1.37c0 1.54 0 2.19-.03 2.77v.22l-.03.58a7.34 7.34 0 0 1-.47 2.43 4.9 4.9 0 0 1-1.15 1.77 4.9 4.9 0 0 1-1.77 1.16c-.64.24-1.36.41-2.43.46l-.61.03h-.23c-.5.02-1.06.03-2.21.03H9.2c-2 0-2.37-.02-3.32-.06a7.34 7.34 0 0 1-2.43-.46 4.9 4.9 0 0 1-1.77-1.16 4.9 4.9 0 0 1-1.16-1.77 7.34 7.34 0 0 1-.46-2.43l-.03-.61v-.2A60.9 60.9 0 0 1 0 11.5V8.75C0 7.7.01 7.17.03 6.7v-.2l.03-.61C.1 4.8.28 4.08.52 3.45a4.9 4.9 0 0 1 1.16-1.77A4.9 4.9 0 0 1 3.45.52 7.34 7.34 0 0 1 5.88.06l.61-.03h.2C7.12 0 7.6 0 8.5 0h2.74c1.62 0 2 .02 2.88.06ZM11.02 2H8.97c-1.7 0-2.05.02-2.92.06a5.4 5.4 0 0 0-1.82.33c-.45.18-.78.39-1.12.73-.34.34-.55.67-.73 1.12-.13.35-.3.86-.33 1.82C2.02 6.93 2 7.29 2 8.98v2.04c0 1.7.02 2.05.06 2.92.04.95.2 1.47.33 1.81.18.46.39.78.73 1.13.34.34.67.55 1.12.73.35.13.86.29 1.82.33.83.04 1.2.05 2.7.06h2.47c1.51 0 1.87-.02 2.71-.06a5.4 5.4 0 0 0 1.81-.33c.46-.18.78-.4 1.12-.73.35-.35.56-.67.73-1.13.14-.34.3-.86.34-1.8a49 49 0 0 0 .06-2.72V8.77a49 49 0 0 0-.06-2.71 5.4 5.4 0 0 0-.34-1.82 3.02 3.02 0 0 0-.73-1.12 3.02 3.02 0 0 0-1.12-.73 5.4 5.4 0 0 0-1.81-.33c-.88-.04-1.23-.06-2.93-.06ZM10 4.86a5.14 5.14 0 1 1 0 10.28 5.14 5.14 0 0 1 0-10.28ZM10 7a3 3 0 1 0 0 6 3 3 0 0 0 0-6Zm5.25-3.5a1.25 1.25 0 1 1 0 2.5 1.25 1.25 0 0 1 0-2.5Z">
+         </path>
+        </svg>
+        <span class="label">
+         Instagram
+        </span>
+       </a>
+      </div>
+      <div class="listitem -icononly">
+       <a class="trigger tooltip" href="https://www.youtube.com/c/letterboxdhq" rel="noopener noreferrer" target="_blank" title="Letterboxd on YouTube">
+        <svg aria-hidden="true" class="glyph" height="16" role="presentation" width="23" xmlns="http://www.w3.org/2000/svg">
+         <path d="M11.74 0c.61 0 2.33.02 4.11.08l.54.02c1.7.06 3.35.18 4.1.38a2.87 2.87 0 0 1 2.03 2.02c.45 1.67.48 5.04.48 5.46v.08c0 .42-.03 3.8-.48 5.46a2.87 2.87 0 0 1-2.03 2.02c-.75.2-2.4.32-4.1.38l-.54.02c-1.78.07-3.5.08-4.11.08H11.26c-.62 0-2.33-.01-4.11-.08l-.54-.02c-1.7-.06-3.36-.18-4.1-.38A2.87 2.87 0 0 1 .48 13.5C.04 11.9 0 8.68 0 8.1v-.2c0-.58.04-3.79.48-5.4A2.87 2.87 0 0 1 2.5.48c.74-.2 2.4-.32 4.1-.38l.54-.02C8.93.02 10.65 0 11.26 0ZM9 4.57v6.86L15 8 9 4.57Z">
+         </path>
+        </svg>
+        <span class="label">
+         YouTube
+        </span>
+       </a>
+      </div>
+      <div class="listitem -icononly">
+       <a class="trigger tooltip" href="https://www.tiktok.com/@letterboxdhq" rel="noopener noreferrer" target="_blank" title="Letterboxd on TikTok">
+        <svg aria-hidden="true" class="glyph" height="18" role="presentation" width="17" xmlns="http://www.w3.org/2000/svg">
+         <path d="M16.48 4.32a4.62 4.62 0 0 1-3.92-2.66A4.04 4.04 0 0 1 12.23 0H9.07v11.85c0 1.93-1.19 3.07-2.65 3.07a2.71 2.71 0 0 1-2.04-.9 2.57 2.57 0 0 1-.6-2.1 2.55 2.55 0 0 1 1.26-1.81 2.7 2.7 0 0 1 2.24-.21V6.77a5.92 5.92 0 0 0-4.08.86 5.7 5.7 0 0 0-2.15 2.55 5.53 5.53 0 0 0 1.26 6.16 5.86 5.86 0 0 0 6.33 1.23 5.78 5.78 0 0 0 2.6-2.08c.64-.94.98-2.03.98-3.15V5.96a7.74 7.74 0 0 0 4.25 1.25V4.32Z">
+         </path>
+        </svg>
+        <span class="label">
+         TikTok
+        </span>
+       </a>
+      </div>
+     </nav>
+    </div>
+    <p class="copyright">
+     © Letterboxd Limited. Made by
+     <a class="mute" href="/crew/">
+      fans
+     </a>
+     in Aotearoa.
+     <span class="nobr">
+      <a class="mute" href="https://letterboxd.com/about/film-data/">
+       Film data
+      </a>
+      from
+      <a class="mute" href="https://www.themoviedb.org">
+       TMDb
+      </a>
+      .
+      <a class="mute mobile-site-switch" data-use-mobile-site="yes" href="#">
+       Mobile site
+      </a>
+      .
+     </span>
+     <span class="recap" style="display:none">
+      <br/>
+      This site is protected by reCAPTCHA and the Google
+      <a class="mute" href="https://policies.google.com/privacy" rel="noopener noreferrer" target="_blank">
+       privacy policy
+      </a>
+      and
+      <a class="mute" href="https://policies.google.com/terms" rel="noopener noreferrer" target="_blank">
+       terms of service
+      </a>
+      apply.
+     </span>
+    </p>
+   </div>
+  </footer>
+  <script type="application/ld+json">
+   /* <![CDATA[ */
+{"image":"https://a.ltrbxd.com/resized/sm/upload/vo/i8/ev/22/euphoria-0-230-0-345-crop.jpg?k=6c2c85a323","@type":"Movie","director":[{"@type":"Person","name":"Sam Levinson","sameAs":"/director/sam-levinson/"}],"dateModified":"2021-08-04","releasedEvent":[{"@type":"PublicationEvent","startDate":"2021"}],"@context":"http://schema.org","url":"https://letterboxd.com/film/euphoria-fck-anyone-whos-not-a-sea-blob/","actors":[{"@type":"Person","name":"Zendaya","sameAs":"/actor/zendaya/"},{"@type":"Person","name":"Hunter Schafer","sameAs":"/actor/hunter-schafer/"},{"@type":"Person","name":"Jacob Elordi","sameAs":"/actor/jacob-elordi/"},{"@type":"Person","name":"John Ales","sameAs":"/actor/john-ales/"},{"@type":"Person","name":"Pell James","sameAs":"/actor/pell-james/"},{"@type":"Person","name":"Lauren Weedman","sameAs":"/actor/lauren-weedman/"},{"@type":"Person","name":"Jayden Marcos","sameAs":"/actor/jayden-marcos/"}],"dateCreated":"2021-01-31","name":"Euphoria: F*ck Anyone Who\u2019s Not a Sea Blob","genre":["Drama"],"@id":"https://letterboxd.com/film/euphoria-fck-anyone-whos-not-a-sea-blob/","aggregateRating":{"bestRating":5,"reviewCount":17317,"@type":"aggregateRating","ratingValue":4.37,"description":"The Letterboxd rating is a weighted average score for a movie based on all ratings cast to date by our members.","ratingCount":69584,"worstRating":0}}
+/* ]]> */
+  </script>
+  <div aria-hidden="true" aria-labelledby="remove-ads-modal-title" class="modal-neue -fade" id="remove-ads-modal" tabindex="-1">
+   <div class="modal-dialog -sm modal-dialog-centered">
+    <div class="modal-content">
+     <div class="modal-header">
+      <h5 class="modal-title" id="remove-ads-modal-title">
+       Upgrade to remove ads
+      </h5>
+      <button aria-label="Close" class="close" data-bs-dismiss="modal" type="button">
+       <svg class="glyph" height="16" width="16" xmlns="http://www.w3.org/2000/svg">
+        <g fill="none" fill-rule="evenodd" stroke="#000" stroke-linecap="round" stroke-width="2">
+         <path d="m1 1 14 14M1 15 15 1">
+         </path>
+        </g>
+       </svg>
+      </button>
+     </div>
+     <div class="modal-body">
+      <div class="body-text -hero">
+       <p>
+        Letterboxd is an independent service created by a small team, and we rely mostly on the support of our members to maintain our site and apps. Please consider upgrading to a
+        <a href="/pro/">
+         Pro account
+        </a>
+        —for less than a couple bucks a month, you’ll get cool additional features like all-time and annual stats pages (
+        <a href="https://letterboxd.com/jack/stats/">
+         example
+        </a>
+        ), the ability to select (and filter by) your favorite streaming services, and no ads!
+       </p>
+      </div>
+     </div>
+     <div class="modal-footer">
+      <a class="button -action button-action" href="/pro/">
+       Tell me about Pro
+      </a>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="amzn-assoc-ad-005023c4-ceba-4708-8b0a-e9727b3931e9">
+  </div>
+  <script async="" src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&amp;adInstanceId=005023c4-ceba-4708-8b0a-e9727b3931e9">
+  </script>
+ </body>
+</html>
+
+<!DOCTYPE html>
+<!--[if lt IE 7 ]> <html lang="en" class="ie6 lte9 lte8 lte7 lte6 no-js"> <![endif]-->
+<!--[if IE 7 ]>    <html lang="en" class="ie7 lte9 lte8 lte7 no-js"> <![endif]-->
+<!--[if IE 8 ]>    <html lang="en" class="ie8 lte9 lte8 no-js"> <![endif]-->
+<!--[if IE 9 ]>    <html lang="en" class="ie9 lte9 no-js"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<html class="no-mobile no-js" id="html" lang="en">
+ <!--<![endif]-->
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=1024" name="viewport"/>
+  <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"/>
+  <meta content="In a Kentucky orphanage in the 1950s, a young girl discovers an astonishing talent for chess while struggling with addiction." name="description"/>
+  <meta content="video.movie" property="og:type"/>
+  <meta content="https://letterboxd.com/film/the-queens-gambit/" property="og:url"/>
+  <meta content="The Queen's Gambit (2020)" property="og:title"/>
+  <meta content="In a Kentucky orphanage in the 1950s, a young girl discovers an astonishing talent for chess while struggling with addiction." property="og:description"/>
+  <meta content="https://a.ltrbxd.com/resized/sm/upload/e1/bu/xk/zm/B14FFB99-1253-4C77-90DB-C22382C41697-1200-1200-675-675-crop-000000.jpg?k=bc545a2cdd" property="og:image"/>
+  <meta content="1200" property="og:image:width"/>
+  <meta content="675" property="og:image:height"/>
+  <meta content="summary_large_image" name="twitter:card"/>
+  <meta content="@letterboxd" name="twitter:site"/>
+  <meta content="https://letterboxd.com/film/the-queens-gambit/" name="twitter:url"/>
+  <meta content="The Queen's Gambit (2020)" name="twitter:title"/>
+  <meta content="In a Kentucky orphanage in the 1950s, a young girl discovers an astonishing talent for chess while struggling with addiction." name="twitter:description"/>
+  <meta content="Directed by" name="twitter:label1"/>
+  <meta content="Scott Frank" name="twitter:data1"/>
+  <meta content="Average rating" name="twitter:label2"/>
+  <meta content="4.27 out of 5" name="twitter:data2"/>
+  <meta content="https://a.ltrbxd.com/resized/sm/upload/e1/bu/xk/zm/B14FFB99-1253-4C77-90DB-C22382C41697-1200-1200-675-675-crop-000000.jpg?k=bc545a2cdd" name="twitter:image"/>
+  <meta content="Letterboxd" name="application-name"/>
+  <meta content="#445566" name="theme-color"/>
+  <meta content="#445566" name="msapplication-TileColor"/>
+  <meta content="app-id=1054271011, affiliate-data=11l5KW, app-argument=https://letterboxd.com/film/the-queens-gambit/" name="apple-itunes-app"/>
+  <meta content="yes" name="mobile-web-app-capable"/>
+  <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-D3ECBB4D7L">
+  </script>
+  <script>
+   window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+	
+		var analytic_params = {};
+		
+		
+analytic_params['user_type'] = 'Visitor';
+		analytic_params['template'] = '/object/film';
+		
+		
+				analytic_params['film_id'] = 's1Ym';
+			
+
+		if (analytic_params.member_type) {
+			gtag('set', 'user_properties', { 
+				member_type: analytic_params.member_type,
+			});
+			delete analytic_params.member_type;
+		}
+		var config = {
+			...analytic_params,
+			'cookie_domain': 'letterboxd.com', 
+			'optimize_id': 'GTM-TB8HSDN', 
+		};
+		gtag('config', 'G-D3ECBB4D7L', config);
+
+		
+		function ga(){}
+  </script>
+  <script>
+   var isMobile = false,
+			isMobileOptimised = true,
+			renderMobile = false,
+			useStaticFonts = false,
+			disableFrameProtection = false;
+  </script>
+  <title>
+   ‎The Queen's Gambit (2020) directed by Scott Frank • Reviews, film + cast • Letterboxd
+  </title>
+  <link href="/manifest.json" rel="manifest"/>
+  <link href="/humans.txt" rel="author" type="text/plain"/>
+  <link color="#445566" href="https://s.ltrbxd.com/static/img/icons/letterboxd-decal-l-16px.5fe24c7d.svg" rel="mask-icon"/>
+  <link href="https://s.ltrbxd.com/static/img/icons/touch-icon-192x192.257b84e7.png" rel="shortcut icon" sizes="196x196"/>
+  <link href="/favicon.ico" rel="shortcut icon"/>
+  <link href="/static/opensearch.xml" rel="search" title="Letterboxd" type="application/opensearchdescription+xml"/>
+  <!--[if lte IE 9 ]>
+		<link href="https://s.ltrbxd.com/static/css/ie9-1.min.129f76cb.css" rel="stylesheet" media="screen, projection"/>
+		<link href="https://s.ltrbxd.com/static/css/ie9-2.min.3797102c.css" rel="stylesheet" media="screen, projection"/>
+	<![endif]-->
+  <!--[if (gt IE 9)|!(IE)]><!-->
+  <link href="https://s.ltrbxd.com/static/css/main.min.eff3610c.css" media="screen, projection" rel="stylesheet"/>
+  <!--<![endif]-->
+  <!--[if lte IE 6]><script>location.replace("/errors/ie6");</script><![endif]-->
+  <!--[if IE 7]><script>location.replace("/errors/ie7");</script><![endif]-->
+  <!--[if IE 8]><script>location.replace("/errors/ie8");</script><![endif]-->
+  <!--[if IE 9]><script>location.replace("/errors/ie9");</script><![endif]-->
+  <link href="https://s.ltrbxd.com/static/css/desktop.min.251e5698.css" media="screen, projection" rel="stylesheet"/>
+  <script>
+   var baseURL = "";
+		var successMessages = [];
+		var errorMessages = [];
+		var stickyMessages = [];
+		var globals = {
+			autoAddFilm: false			
+			, spinners: {
+				ajax_242d35: 'https://s.ltrbxd.com/static/img/spinner-dark-2x.fda24f88.gif',
+				spinner_12_2C3641: 'https://s.ltrbxd.com/static/img/spinner-dark-2x.fda24f88.gif',
+				spinner_14_20272f: 'https://s.ltrbxd.com/static/img/spinner-dark-2x.fda24f88.gif',
+				spinner_16_161B21: 'https://s.ltrbxd.com/static/img/spinner-dark-2x.fda24f88.gif'
+			}
+		};
+		var supermodelCSRF = "";
+		var gRecaptchaKey = '6Le3mMIUAAAAAEXbwZ7M1R5jEv0V5xbvj7bgXq2g';
+		var person = {
+			username: ""
+			, loggedIn: false
+			
+			, showAds: true
+			, role: "guest"
+			, hasExtendedServiceFilters: false
+			, canBulkAddToLists: false
+			, canFilterOwned: false
+			, hasHqRole: false
+			, canHaveHqDashboard: false
+			, hasMemberStatistics: false
+			, blockedMembers: []
+			, showAdultContent: false
+			, validated: null
+			, trusted: false
+			, hasBlocked : function(member) { for (var i = 0; i !== person.blockedMembers.length; i++) {if (person.blockedMembers[i] === member) return true;} return false; }
+			, viewingTags: []
+			, hasMoreTags: true
+		};
+		var disableAds = false;
+		
+		
+		
+supermodelCSRF = "c7f4c9dfc1abb28ef456";
+
+		
+
+		
+		
+		
+			if ( screen.width < 768 ) {
+				var date = new Date();
+				var maxAge = 365 * 24 * 60 * 60;
+				date.setTime(date.getTime() + maxAge * 1000);
+				var expires = '; expires=' + date.toUTCString();
+				document.cookie = "useMobileSite=yes" + expires + "; path=/; maxAge=" + maxAge;
+				if ( document.cookie && document.cookie.indexOf("useMobileSite=yes") >= 0 ) {
+					window.location.reload(true);
+				} else {
+					// No cookies.  No Mobile version.
+				}
+			}
+		
+
+		var isWindows = navigator.platform.toUpperCase().indexOf('WIN') >= 0; // Detect windows platform
+		if (isWindows) { document.documentElement.classList.add('is-windows'); }
+  </script>
+  <script src="https://s.ltrbxd.com/static/js/main.min.3dc5a7f7.js">
+  </script>
+  <script>
+   if ( $.cookie("letterboxd.admin.signed.in") === person.username ) {
+			successMessages.push("You are signed in as " + person.username);
+			$(function(){$("#header, #content, body").css("background","#543");});
+		}
+  </script>
+  <script>
+   var tyche = {
+			mode: "tyche",
+			config: "//config.playwire.com/1024338/v2/websites/72804/banner.json",
+			passiveMode: false, 
+			
+			custom_tags: [
+				
+				'drama', 
+				'', 
+				'intl_false', 
+				'668077', 
+				'' 
+			],
+			onReady: () => {
+				if (window.onTycheReady) window.onTycheReady(window.tyche)
+			},
+		}
+  </script>
+  <script id="tyche" src="//cdn.intergient.com/pageos/pageos.js">
+  </script>
+  <script async="" src="https://btloader.com/tag?o=5150306120761344&amp;upapi=true">
+  </script>
+ </head>
+ <body class="film backdropped" data-tmdb-id="" data-tmdb-type="movie" data-type="film">
+  <div class="backdrop-container">
+   <div class="backdrop-wrapper" data-backdrop="https://a.ltrbxd.com/resized/sm/upload/e1/bu/xk/zm/B14FFB99-1253-4C77-90DB-C22382C41697-1200-1200-675-675-crop-000000.jpg?k=bc545a2cdd" data-backdrop2x="https://a.ltrbxd.com/resized/sm/upload/e1/bu/xk/zm/B14FFB99-1253-4C77-90DB-C22382C41697-1920-1920-1080-1080-crop-000000.jpg?k=df3de4145e" data-backdropmobile="https://a.ltrbxd.com/resized/sm/upload/e1/bu/xk/zm/B14FFB99-1253-4C77-90DB-C22382C41697-960-960-540-540-crop-000000.jpg?k=41e7bdcdae" data-offset="15" id="backdrop">
+    <div class="backdropplaceholder js-backdrop-placeholder" style="background-image: url(https://a.ltrbxd.com/resized/sm/upload/e1/bu/xk/zm/B14FFB99-1253-4C77-90DB-C22382C41697-48-48-27-27-crop.png?k=41e7bdcdae); background-position: center -15px;">
+    </div>
+    <div class="backdropimage js-backdrop-image" style="background-position: center -15px;">
+    </div>
+    <div class="backdropmask js-backdrop-fade">
+    </div>
+   </div>
+  </div>
+  <script>
+   var filmData = { id: 668077, name: "The Queen\'s Gambit", releaseYear: "2020", posterURL: "/film/the-queens-gambit/image-150/", path: "/film/the-queens-gambit/" };
+  </script>
+  <script>
+   var mainMenu = [];
+
+	
+	mainMenu.push({
+		"id": 1,
+		"url": "/sign-in/", 
+		"name": "Sign In",
+		"cssClassCode": "sign-in-menu",
+		"hideWhenSignedIn": true,
+		"hideWhenNotSignedIn": false,
+		"showInMainNavForMobile": true,
+		"tooltip": "",
+		"selected": false
+	});
+
+	
+	mainMenu.push({
+		"id": 2,
+		"url": "/create-account/", 
+		"name": "Create Account",
+		"cssClassCode": "create-account-menu",
+		"hideWhenSignedIn": true,
+		"hideWhenNotSignedIn": false,
+		"showInMainNavForMobile": false,
+		"tooltip": "",
+		"selected": false
+	});
+
+	
+	mainMenu.push({
+		"id": 3,
+		"url": "/", 
+		"name": "Home",
+		"cssClassCode": "person-home",
+		"hideWhenSignedIn": true,
+		"hideWhenNotSignedIn": true,
+		"showInMainNavForMobile": false,
+		"tooltip": "",
+		"selected": false
+	});
+
+	
+	mainMenu.push({
+		"id": 4,
+		"url": "/activity/", 
+		"name": "Activity",
+		"cssClassCode": "main-nav-activity",
+		"hideWhenSignedIn": false,
+		"hideWhenNotSignedIn": true,
+		"showInMainNavForMobile": false,
+		"tooltip": "Activity",
+		"selected": false
+	});
+
+	
+	mainMenu.push({
+		"id": 5,
+		"url": "/films/", 
+		"name": "Films",
+		"cssClassCode": "films-page main-nav-films",
+		"hideWhenSignedIn": false,
+		"hideWhenNotSignedIn": false,
+		"showInMainNavForMobile": false,
+		"tooltip": "",
+		"selected": false
+	});
+
+	
+	mainMenu.push({
+		"id": 6,
+		"url": "/lists/", 
+		"name": "Lists",
+		"cssClassCode": "lists-page main-nav-lists",
+		"hideWhenSignedIn": false,
+		"hideWhenNotSignedIn": false,
+		"showInMainNavForMobile": false,
+		"tooltip": "",
+		"selected": false
+	});
+
+	
+	mainMenu.push({
+		"id": 7,
+		"url": "/members/", 
+		"name": "Members",
+		"cssClassCode": "main-nav-people",
+		"hideWhenSignedIn": false,
+		"hideWhenNotSignedIn": false,
+		"showInMainNavForMobile": false,
+		"tooltip": "",
+		"selected": false
+	});
+
+	
+	mainMenu.push({
+		"id": 8,
+		"url": "/journal/", 
+		"name": "Journal",
+		"cssClassCode": "main-nav-journal",
+		"hideWhenSignedIn": false,
+		"hideWhenNotSignedIn": false,
+		"showInMainNavForMobile": false,
+		"tooltip": "",
+		"selected": false
+	});
+
+	
+	mainMenu.push({
+		"id": 9,
+		"url": "/search/", 
+		"name": "Search results",
+		"cssClassCode": "",
+		"hideWhenSignedIn": true,
+		"hideWhenNotSignedIn": true,
+		"showInMainNavForMobile": false,
+		"tooltip": "",
+		"selected": false
+	});
+  </script>
+  <header class="site-header js-hide-in-app" id="header">
+   <div class="site-header-bg">
+   </div>
+   <section>
+    <h1 class="site-logo">
+     <a class="logo replace" href="/">
+      Letterboxd — Your life in film
+     </a>
+    </h1>
+    <div class="react-component" data-component-class="globals.comps.NavComponent">
+    </div>
+    <form action="#" autocapitalize="off" autocorrect="off" class="signin signin-form js-header-signin-form js-signin" data-recaptcha-action="signin" data-url="/user/login.do" id="signin" method="post" novalidate="novalidate">
+     <input name="__csrf" type="hidden" value="placeholder"/>
+     <fieldset class="fieldset">
+      <div class="fields">
+       <div class="col">
+        <label for="username">
+         Username or Email
+        </label>
+        <input autocomplete="email" class="field signin-field" data-focus-control="signingIn" id="username" inputmode="email" name="username" tabindex="1" type="email" value=""/>
+       </div>
+       <div class="col">
+        <label for="password">
+         Password
+        </label>
+        <input autocomplete="current-password" class="field signin-field" id="password" name="password" tabindex="2" type="password" value=""/>
+       </div>
+       <div class="signin-actions">
+        <label class="option-label -checkbox -small" for="remember">
+         <input class="checkbox" id="remember" name="remember" tabindex="3" type="checkbox" value="true"/>
+         <i class="substitute">
+         </i>
+         <span class="focus">
+          Remember
+          <span class="mob-hide">
+           me
+          </span>
+         </span>
+        </label>
+        <p class="reset" tabindex="5">
+         <a class="reset-password-link" href="/user/request-password-reset" target="_top">
+          Forgotten
+          <span class="elongated">
+           password
+          </span>
+          ?
+         </a>
+        </p>
+       </div>
+       <div class="col buttons">
+        <div class="button-container">
+         <input class="button -action button-green" tabindex="4" type="submit" value="Sign in"/>
+         <i>
+         </i>
+        </div>
+        <div class="close js-close-signin">
+         ×
+        </div>
+       </div>
+      </div>
+     </fieldset>
+     <div class="errormessage" id="signin-message">
+     </div>
+    </form>
+    <form action="/search/" autocorrect="off" class="js-search-form search-form" id="search" method="get">
+     <input autocomplete="false" name="hidden" style="display:none;" type="text"/>
+     <fieldset>
+      <label class="hidden" for="search-q">
+       Search:
+      </label>
+      <input class="field -borderless" data-lpignore="true" id="search-q" inputmode="search" name="q" type="text" value=""/>
+      <input class="action" type="submit" value="Search"/>
+     </fieldset>
+    </form>
+   </section>
+  </header>
+  <div class="site-body -backdrop" id="content">
+   <div class="content-wrap">
+    <div class="cols-3 overflow" id="film-page-wrapper">
+     <div class="col-6 gutter-right-1 col-poster-large" id="js-poster-col">
+      <section class="poster-list -p230 -single no-hover el col">
+       <div class="really-lazy-load poster film-poster film-poster-668077" data-cache-busting-key="e0f9e60a" data-context="hero" data-film-id="668077" data-film-slug="/film/the-queens-gambit/" data-hide-tooltip="true" data-image-height="345" data-image-width="230" data-linked="unlinked" data-show-menu="true" data-target-link="/film/the-queens-gambit/" data-target-link-target="">
+        <img alt="The Queen's Gambit" class="image" height="345" itemprop="image" src="https://a.ltrbxd.com/resized/film-poster/6/6/8/0/7/7/668077-the-queen-s-gambit-0-230-0-345-crop.jpg?k=e675bc48df" srcset="https://a.ltrbxd.com/resized/film-poster/6/6/8/0/7/7/668077-the-queen-s-gambit-0-460-0-690-crop.jpg?k=f462873757 2x" width="230"/>
+        <span class="frame">
+         <span class="frame-title">
+         </span>
+        </span>
+       </div>
+       <div class="js-serial-csi" data-on-load="" data-src="/esi/film/the-queens-gambit/stats/">
+        <ul class="film-stats">
+         <li class="stat">
+          <a class="has-icon icon-placeholder">
+          </a>
+         </li>
+        </ul>
+       </div>
+      </section>
+      <div class="js-csi" data-on-load="csi-availability" data-src="/csi/film/the-queens-gambit/availability/?esiAllowUser=true&amp;esiAllowCountry=true">
+       <section class="watch-panel">
+        <div class="header">
+         <h3 class="title">
+          Where to watch
+         </h3>
+         <p class="trailer-link js-watch-panel-trailer">
+          <a class="play track-event js-video-zoom" data-track-category="Trailer" href="//www.youtube.com/embed/oZn3qSgmLqI?rel=0&amp;wmode=transparent">
+           <span class="name">
+            Trailer
+           </span>
+          </a>
+         </p>
+        </div>
+        <div id="watch">
+         <div class="other">
+          <span class="more">
+          </span>
+          <a class="jw-branding" href="https://www.justwatch.com" rel="noopener noreferrer" target="_blank">
+           JustWatch
+          </a>
+         </div>
+        </div>
+       </section>
+      </div>
+      <script id="script-27f76b00-69a6-4a04-8c26-899f51165db0">
+       ((tag, target) => { if (!disableAds && person.showAds) { let pwUnit = document.createElement('div'); pwUnit.id = '08a519f2-eea9-43bb-92dc-2757481824c4'; pwUnit.className = 'pw-div'; pwUnit.setAttribute('data-pw-' + (renderMobile ? 'mobi' : 'desk'), 'sky_btf'); let kicker = [ '<div class="upgrade-kicker -skyscraper js-hide-in-app">', '<button type="button" class="modaltrigger" data-bs-toggle="modal" data-bs-target="#remove-ads-modal">', 'Remove Ads', '<svg aria-hidden="true" width="7" height="7" xmlns="http://www.w3.org/2000/svg"><path d="m.5.5 6 6M6.5.5l-6 6" fill-rule="evenodd" stroke="#000"/></svg>', '</button>', '</div>' ].join(''); if (target) { target.insertAdjacentElement('beforeend', pwUnit); } else { tag.insertAdjacentElement('afterend', pwUnit); } window.addEventListener('DOMContentLoaded', (event) => { pwUnit.insertAdjacentHTML('afterend', kicker); }, { once: true }); } tag.remove(); })(document.getElementById('script-27f76b00-69a6-4a04-8c26-899f51165db0'));
+      </script>
+     </div>
+     <div class="col-17">
+      <section class="film-header-lockup -default" id="featured-film-header">
+       <h1 class="headline-1 js-widont prettify">
+        The Queen's Gambit
+       </h1>
+       <p>
+        <small class="number">
+         <a href="/films/year/2020/">
+          2020
+         </a>
+        </small>
+        Directed by
+        <a href="/director/scott-frank/">
+         <span class="prettify">
+          Scott Frank
+         </span>
+        </a>
+       </p>
+      </section>
+      <section class="section col-10 col-main">
+       <section>
+        <div class="review body-text -prose -hero prettify">
+         <h3 class="hidden">
+          Synopsis
+         </h3>
+         <div class="truncate" data-truncate="450">
+          <p>
+           In a Kentucky orphanage in the 1950s, a young girl discovers an astonishing talent for chess while struggling with addiction.
+          </p>
+         </div>
+        </div>
+        <script id="script-aae496d8-9625-4245-ad55-1932d0848e4a">
+         ((tag, target) => { if (!disableAds && person.showAds) { let pwUnit = document.createElement('div'); pwUnit.id = 'a0c9b5a0-62b3-4ab7-85a1-c8770d46de20'; pwUnit.className = 'pw-div -tile300x250 -alignleft'; pwUnit.setAttribute('data-pw-' + (renderMobile ? 'mobi' : 'desk'), 'med_rect_btf'); let kicker = [ '<div class="upgrade-kicker -alignleft -med_rect js-hide-in-app">', '<button type="button" class="modaltrigger" data-bs-toggle="modal" data-bs-target="#remove-ads-modal">', 'Remove Ads', '<svg aria-hidden="true" width="7" height="7" xmlns="http://www.w3.org/2000/svg"><path d="m.5.5 6 6M6.5.5l-6 6" fill-rule="evenodd" stroke="#000"/></svg>', '</button>', '</div>' ].join(''); if (target) { target.insertAdjacentElement('beforeend', pwUnit); } else { tag.insertAdjacentElement('afterend', pwUnit); } window.addEventListener('DOMContentLoaded', (event) => { pwUnit.insertAdjacentHTML('afterend', kicker); }, { once: true }); } tag.remove(); })(document.getElementById('script-aae496d8-9625-4245-ad55-1932d0848e4a'));
+        </script>
+       </section>
+       <div data-selected-tab="" id="tabbed-content">
+        <header>
+         <ul>
+          <li>
+           <a data-id="cast" href="/film/the-queens-gambit/">
+            Cast
+           </a>
+          </li>
+          <li>
+           <a data-id="crew" href="/film/the-queens-gambit/crew/" id="crew">
+            Crew
+           </a>
+          </li>
+          <li>
+           <a data-id="details" href="/film/the-queens-gambit/details/">
+            Details
+           </a>
+          </li>
+          <li>
+           <a data-id="genres" href="/film/the-queens-gambit/genres/">
+            Genres
+           </a>
+          </li>
+         </ul>
+        </header>
+        <div class="tabbed-content-block" id="tab-cast">
+         <h3 class="hidden">
+          Cast
+         </h3>
+         <div class="cast-list text-sluglist">
+          <p>
+           <a class="text-slug tooltip" href="/actor/anya-taylor-joy/" title="Elizabeth 'Beth' Harmon">
+            Anya Taylor-Joy
+           </a>
+           <a class="text-slug tooltip" href="/actor/isla-johnston/" title="Young Beth">
+            Isla Johnston
+           </a>
+           <a class="text-slug tooltip" href="/actor/bill-camp/" title="William Shaibel">
+            Bill Camp
+           </a>
+           <a class="text-slug tooltip" href="/actor/marielle-heller/" title="Alma Wheatley">
+            Marielle Heller
+           </a>
+           <a class="text-slug tooltip" href="/actor/moses-ingram/" title="Jolene">
+            Moses Ingram
+           </a>
+           <a class="text-slug tooltip" href="/actor/chloe-pirrie/" title="Alice Harmon">
+            Chloe Pirrie
+           </a>
+           <a class="text-slug tooltip" href="/actor/marcin-dorocinski-1/" title="Vasily Borgov">
+            Marcin Dorociński
+           </a>
+           <a class="text-slug tooltip" href="/actor/thomas-brodie-sangster-1/" title="Benny Watts">
+            Thomas Brodie-Sangster
+           </a>
+           <a class="text-slug tooltip" href="/actor/jacob-fortune-lloyd/" title="D.L. Townes">
+            Jacob Fortune-Lloyd
+           </a>
+           <a class="text-slug tooltip" href="/actor/harry-melling/" title="Harry Beltik">
+            Harry Melling
+           </a>
+          </p>
+         </div>
+        </div>
+        <div class="tabbed-content-block column-block" id="tab-crew">
+         <h3>
+          <span>
+           Director
+          </span>
+         </h3>
+         <div class="text-sluglist">
+          <p>
+           <a class="text-slug" href="/director/scott-frank/">
+            Scott Frank
+           </a>
+          </p>
+         </div>
+         <h3>
+          <span>
+           Producers
+          </span>
+         </h3>
+         <div class="text-sluglist">
+          <p>
+           <a class="text-slug" href="/producer/scott-frank/">
+            Scott Frank
+           </a>
+           <a class="text-slug" href="/producer/william-horberg/">
+            William Horberg
+           </a>
+           <a class="text-slug" href="/producer/allan-scott/">
+            Allan Scott
+           </a>
+           <a class="text-slug" href="/producer/marcus-loges/">
+            Marcus Loges
+           </a>
+           <a class="text-slug" href="/producer/mick-aniceto/">
+            Mick Aniceto
+           </a>
+          </p>
+         </div>
+         <h3>
+          <span>
+           Writers
+          </span>
+         </h3>
+         <div class="text-sluglist">
+          <p>
+           <a class="text-slug" href="/writer/walter-tevis/">
+            Walter Tevis
+           </a>
+           <a class="text-slug" href="/writer/scott-frank/">
+            Scott Frank
+           </a>
+          </p>
+         </div>
+         <h3>
+          <span>
+           Editor
+          </span>
+         </h3>
+         <div class="text-sluglist">
+          <p>
+           <a class="text-slug" href="/editor/michelle-tesoro/">
+            Michelle Tesoro
+           </a>
+          </p>
+         </div>
+         <h3>
+          <span>
+           Cinematography
+          </span>
+         </h3>
+         <div class="text-sluglist">
+          <p>
+           <a class="text-slug" href="/cinematography/steven-meizler/">
+            Steven Meizler
+           </a>
+          </p>
+         </div>
+         <h3>
+          <span>
+           Production Design
+          </span>
+         </h3>
+         <div class="text-sluglist">
+          <p>
+           <a class="text-slug" href="/production-design/uli-hanisch/">
+            Uli Hanisch
+           </a>
+          </p>
+         </div>
+         <h3>
+          <span>
+           Art Direction
+          </span>
+         </h3>
+         <div class="text-sluglist">
+          <p>
+           <a class="text-slug" href="/art-direction/kai-koch/">
+            Kai Koch
+           </a>
+           <a class="text-slug" href="/art-direction/daniel-chour/">
+            Daniel Chour
+           </a>
+           <a class="text-slug" href="/art-direction/thorsten-klein-1/">
+            Thorsten Klein
+           </a>
+           <a class="text-slug" href="/art-direction/laura-lessnick/">
+            Laura Lessnick
+           </a>
+           <a class="text-slug" href="/art-direction/leonie-lieberherr/">
+            Leonie Lieberherr
+           </a>
+           <a class="text-slug" href="/art-direction/sarah-wibbeler/">
+            Sarah Wibbeler
+           </a>
+          </p>
+         </div>
+         <h3>
+          <span>
+           Set Decoration
+          </span>
+         </h3>
+         <div class="text-sluglist">
+          <p>
+           <a class="text-slug" href="/set-decoration/laura-bach-1/">
+            Laura Bach
+           </a>
+           <a class="text-slug" href="/set-decoration/wilko-drews/">
+            Wilko Drews
+           </a>
+           <a class="text-slug" href="/set-decoration/stephanie-rass/">
+            Stephanie Rass
+           </a>
+           <a class="text-slug" href="/set-decoration/sabine-schaaf/">
+            Sabine Schaaf
+           </a>
+           <a class="text-slug" href="/set-decoration/ingeborg-heinemann/">
+            Ingeborg Heinemann
+           </a>
+           <a class="text-slug" href="/set-decoration/britta-albert/">
+            Britta Albert
+           </a>
+           <a class="text-slug" href="/set-decoration/friederike-beckert/">
+            Friederike Beckert
+           </a>
+           <a class="text-slug" href="/set-decoration/nina-hirschberg/">
+            Nina Hirschberg
+           </a>
+           <a class="text-slug" href="/set-decoration/john-kalus/">
+            John Kalus
+           </a>
+           <a class="text-slug" href="/set-decoration/karolin-leshel/">
+            Karolin Leshel
+           </a>
+           <a class="text-slug" href="/set-decoration/daniela-lohschelder/">
+            Daniela Lohschelder
+           </a>
+          </p>
+         </div>
+         <h3>
+          <span>
+           Visual Effects
+          </span>
+         </h3>
+         <div class="text-sluglist">
+          <p>
+           <a class="text-slug" href="/visual-effects/john-mangia/">
+            John Mangia
+           </a>
+           <a class="text-slug" href="/visual-effects/arissa-blasingame/">
+            Arissa Blasingame
+           </a>
+          </p>
+         </div>
+         <h3>
+          <span>
+           Composer
+          </span>
+         </h3>
+         <div class="text-sluglist">
+          <p>
+           <a class="text-slug" href="/composer/carlos-rafael-rivera/">
+            Carlos Rafael Rivera
+           </a>
+          </p>
+         </div>
+         <h3>
+          <span>
+           Sound
+          </span>
+         </h3>
+         <div class="text-sluglist">
+          <p>
+           <a class="text-slug" href="/sound/wylie-stateman/">
+            Wylie Stateman
+           </a>
+           <a class="text-slug" href="/sound/eric-hirsch/">
+            Eric Hirsch
+           </a>
+           <a class="text-slug" href="/sound/eric-hoehn/">
+            Eric Hoehn
+           </a>
+           <a class="text-slug" href="/sound/gregg-swiatlowski/">
+            Gregg Swiatlowski
+           </a>
+           <a class="text-slug" href="/sound/patrick-cicero/">
+            Patrick Cicero
+           </a>
+           <a class="text-slug" href="/sound/james-david-redding-iii/">
+            James David Redding III
+           </a>
+          </p>
+         </div>
+         <h3>
+          <span>
+           Costumes
+          </span>
+         </h3>
+         <div class="text-sluglist">
+          <p>
+           <a class="text-slug" href="/costumes/sparka-lee-hall/">
+            Sparka Lee Hall
+           </a>
+           <a class="text-slug" href="/costumes/gabriele-binder/">
+            Gabriele Binder
+           </a>
+          </p>
+         </div>
+         <h3>
+          <span>
+           Make-Up
+          </span>
+         </h3>
+         <div class="text-sluglist">
+          <p>
+           <a class="text-slug" href="/make-up/daniel-parker-2/">
+            Daniel Parker
+           </a>
+           <a class="text-slug" href="/make-up/lizzie-lawson/">
+            Lizzie Lawson
+           </a>
+           <a class="text-slug" href="/make-up/susan-parkinson/">
+            Susan Parkinson
+           </a>
+           <a class="text-slug" href="/make-up/claudia-stolze/">
+            Claudia Stolze
+           </a>
+           <a class="text-slug" href="/make-up/anja-bissinger/">
+            Anja Bissinger
+           </a>
+           <a class="text-slug" href="/make-up/sandra-jethon/">
+            Sandra Jethon
+           </a>
+           <a class="text-slug" href="/make-up/tatjana-krauskopf/">
+            Tatjana Krauskopf
+           </a>
+          </p>
+         </div>
+        </div>
+        <div class="tabbed-content-block column-block" id="tab-details">
+         <h3>
+          <span>
+           Studios
+          </span>
+         </h3>
+         <div class="text-sluglist">
+          <p>
+           <a class="text-slug" href="/studio/flitcraft/">
+            Flitcraft
+           </a>
+           <a class="text-slug" href="/studio/wonderful-films/">
+            Wonderful Films
+           </a>
+          </p>
+         </div>
+         <h3>
+          <span>
+           Country
+          </span>
+         </h3>
+         <div class="text-sluglist">
+          <p>
+           <a class="text-slug" href="/films/country/usa/">
+            USA
+           </a>
+          </p>
+         </div>
+         <h3>
+          <span>
+           Language
+          </span>
+         </h3>
+         <div class="text-sluglist">
+          <p>
+           <a class="text-slug" href="/films/language/english/">
+            English
+           </a>
+          </p>
+         </div>
+         <h3>
+          <span>
+           Alternative Titles
+          </span>
+         </h3>
+         <div class="text-indentedlist">
+          <p>
+           Gambito de dama, 女王的棋局, La regina degli scacchi, 퀸즈겜빗, 퀸즈 겜빗, Ферзёвый гамбит, Vezir Gambiti
+          </p>
+         </div>
+        </div>
+        <div class="tabbed-content-block column-block" id="tab-genres">
+         <h3>
+          <span>
+           Genre
+          </span>
+         </h3>
+         <div class="text-sluglist capitalize">
+          <p>
+           <a class="text-slug" href="/films/genre/drama/">
+            drama
+           </a>
+          </p>
+         </div>
+         <h3>
+          <span>
+           Themes
+          </span>
+         </h3>
+         <div class="text-sluglist capitalize">
+          <p>
+           <a class="text-slug" href="/films/theme/underdogs-and-coming-of-age/by/best-match/">
+            Underdogs and coming of age
+           </a>
+           <a class="text-slug" href="/films/theme/moving-relationship-stories/by/best-match/">
+            Moving relationship stories
+           </a>
+           <a class="text-slug" href="/films/mini-theme/team-coach-sports-football-athlete/by/best-match/">
+            team, coach, football, sports or athlete
+           </a>
+           <a class="text-slug" href="/films/mini-theme/gambling-casino-unpredictable-drama-engaging/by/best-match/">
+            gambling, casino, unpredictable, drama or engaging
+           </a>
+           <a class="text-slug" href="/films/mini-theme/biography-artists-musician-songs-emotional/by/best-match/">
+            biography, artists, musician, songs or emotional
+           </a>
+           <a class="text-slug" href="/films/mini-theme/surfing-kids-adolescents-youth-lesson/by/best-match/">
+            surfing, kids, adolescents, youth or lesson
+           </a>
+           <a class="text-slug" href="/films/mini-theme/historical-propaganda-political-patriotism-historic/by/best-match/">
+            historical, propaganda, political, historic or patriotism
+           </a>
+           <a class="text-slug" href="/film/the-queens-gambit/themes/">
+            Show All…
+           </a>
+          </p>
+         </div>
+        </div>
+       </div>
+       <p class="text-link text-footer">
+        393 mins  
+					
+						More at
+        <a class="micro-button track-event" data-track-action="IMDb" href="http://www.imdb.com/title/tt10048342/maindetails">
+         IMDb
+        </a>
+        <a class="micro-button track-event" data-track-action="TMDb" href="https://www.themoviedb.org/tv/87739/">
+         TMDb
+        </a>
+        <span class="report-link has-icon icon-report hide-when-logged-out tooltip tooltip-close-on-click" data-report-url="/ajax/film:668077/report-form" title="Report this film">
+         Report this film
+        </span>
+       </p>
+      </section>
+      <aside class="sidebar">
+       <section class="actions-panel" id="userpanel">
+        <ul class="js-actions-panel">
+         <span class="js-csi" data-on-load="" data-src="/csi/film/the-queens-gambit/sidebar-user-actions/?esiAllowUser=true">
+         </span>
+         <li class="panel-sharing sharing-toggle js-actions-panel-sharing">
+          <button aria-controls="sharing-toggle-body-668077" aria-expanded="false" class="trigger" type="button">
+           Share
+          </button>
+          <div class="body" id="sharing-toggle-body-668077">
+           <div class="urlgroup">
+            <input id="url-field-668077" readonly="" spellcheck="false" type="text" value="https://boxd.it/s1Ym"/>
+            <button class="button clipboardtrigger has-icon" data-clipboard-target="#url-field-668077" data-sharer-type="link">
+             <span class="label">
+              Copy URL to Clipboard
+             </span>
+             <span class="icon">
+             </span>
+            </button>
+           </div>
+           <a class="shareitem -link -twitter" data-sharer-type="twitter" href="https://twitter.com/intent/tweet?text=The%20Queen%27s%20Gambit%20%282020%29%20on%20%40letterboxd%3A%20https%3A%2F%2Fboxd.it%2Fs1Ym" rel="noreferrer" title="Tweet a link">
+            <span class="label">
+             Tweet a link
+            </span>
+            <span class="icon">
+            </span>
+           </a>
+           <a class="shareitem -link -facebook" data-sharer-type="facebook" href="https://www.facebook.com/dialog/feed?app_id=173683136069040&amp;display=popup&amp;link=https%3A%2F%2Fletterboxd.com%2Ffilm%2Fthe-queens-gambit%2F&amp;redirect_uri=https://letterboxd.com/facebook-share" rel="noreferrer" title="Share to Facebook">
+            <span class="label">
+             Share to Facebook
+            </span>
+            <span class="icon">
+            </span>
+           </a>
+          </div>
+         </li>
+        </ul>
+       </section>
+       <div class="js-csi" data-on-load="" data-src="/csi/film/the-queens-gambit/rating-histogram/">
+       </div>
+      </aside>
+      <div class="js-csi" data-on-load="" data-src="/csi/film/the-queens-gambit/friend-activity/?esiAllowUser=true">
+      </div>
+      <div class="js-csi" data-on-load="" data-src="/csi/film/the-queens-gambit/news/?esiAllowUser=true&amp;esiAllowCountry=true">
+      </div>
+      <section class="film-recent-reviews">
+       <div class="js-csi" data-on-load="csi-friend-reviews" data-src="/csi/film/the-queens-gambit/friend-reviews/?esiAllowUser=true">
+       </div>
+       <section class="film-reviews section" data-how-many="12" data-url="/ajax/the-queens-gambit/popular-reviews/" id="popular-reviews">
+        <h2 class="section-heading">
+         <a href="/film/the-queens-gambit/reviews/by/activity/">
+          Popular reviews
+         </a>
+        </h2>
+        <a class="all-link" href="/film/the-queens-gambit/reviews/by/activity/">
+         More
+        </a>
+        <ul class="film-popular-review">
+         <li class="film-detail" data-person="jackwakelin" data-viewing-id="130345183">
+          <a class="avatar -a40" href="/jackwakelin/">
+           <img alt="jack" height="40" src="https://a.ltrbxd.com/resized/avatar/upload/6/8/9/9/9/1/shard/blob-0-80-0-80-crop.png?k=4f49500f8d" width="40"/>
+          </a>
+          <div class="film-detail-content">
+           <div class="attribution-block -large">
+            <p class="attribution">
+             <a class="context" href="/jackwakelin/film/the-queens-gambit/" title="Read jack’s review">
+              Review by
+              <strong class="name">
+               jack
+              </strong>
+             </a>
+             <span class="rating -green rated-9">
+              ★★★★½
+             </span>
+             <span class="content-metadata">
+              <a class="has-icon icon-comment icon-16 comment-count" href="/jackwakelin/film/the-queens-gambit/">
+               10
+              </a>
+             </span>
+            </p>
+           </div>
+           <div class="body-text -prose collapsible-text" data-full-text-url="/s/full-text/viewing:130345183/">
+            <p>
+             anya taylor joy: *moves bishop to K4*
+            </p>
+            <p>
+             me having never played chess in my life: 'OMG what a play she's humiliated him'
+            </p>
+           </div>
+           <p class="like-link-target react-component -monotone" data-component-class="globals.comps.LikeLinkComponent" data-format="svg" data-likeable="true" data-likeable-name="review" data-likeable-uid="viewing:130345183" data-likes-page="/jackwakelin/film/the-queens-gambit/likes/" data-owner="jackwakelin">
+            <span class="svg-action -like">
+            </span>
+           </p>
+          </div>
+         </li>
+         <li class="film-detail" data-person="Kun" data-viewing-id="130715416">
+          <a class="avatar -a40" href="/kun/">
+           <img alt="Hungkat" height="40" src="https://a.ltrbxd.com/resized/avatar/upload/5/3/4/3/0/3/shard/avtr-0-80-0-80-crop.png?k=22ccc90832" width="40"/>
+          </a>
+          <div class="film-detail-content">
+           <div class="attribution-block -large">
+            <p class="attribution">
+             <a class="context" href="/kun/film/the-queens-gambit/" title="Read Hungkat’s review">
+              Review by
+              <strong class="name">
+               Hungkat
+              </strong>
+             </a>
+             <span class="content-metadata">
+              <a class="has-icon icon-comment icon-16 comment-count" href="/kun/film/the-queens-gambit/">
+               4
+              </a>
+             </span>
+            </p>
+           </div>
+           <div class="body-text -prose collapsible-text" data-full-text-url="/s/full-text/viewing:130715416/">
+            <p>
+             Anya Taylor-Joy: *stares directly into the camera with her glinting eyes after moving a chess piece*
+            </p>
+            <p>
+             Me, humbly shaking my head: I resign.
+            </p>
+           </div>
+           <p class="like-link-target react-component -monotone" data-component-class="globals.comps.LikeLinkComponent" data-format="svg" data-likeable="true" data-likeable-name="review" data-likeable-uid="viewing:130715416" data-likes-page="/kun/film/the-queens-gambit/likes/" data-owner="Kun">
+            <span class="svg-action -like">
+            </span>
+           </p>
+          </div>
+         </li>
+         <li class="film-detail" data-person="sonnywortzik" data-viewing-id="130482073">
+          <a class="avatar -a40" href="/sonnywortzik/">
+           <img alt="Vivian" height="40" src="https://a.ltrbxd.com/resized/avatar/twitter/2/1/4/1/5/3/shard/http___pbs.twimg.com_profile_images_1152084473250377733_TxC0zKrM-0-80-0-80-crop.png?k=e3ee0e5533" width="40"/>
+          </a>
+          <div class="film-detail-content">
+           <div class="attribution-block -large">
+            <p class="attribution">
+             <a class="context" href="/sonnywortzik/film/the-queens-gambit/" title="Read Vivian’s review">
+              Review by
+              <strong class="name">
+               Vivian
+              </strong>
+             </a>
+             <span class="content-metadata">
+              <a class="has-icon icon-comment icon-16 comment-count" href="/sonnywortzik/film/the-queens-gambit/">
+               29
+              </a>
+             </span>
+            </p>
+           </div>
+           <div class="body-text -prose collapsible-text" data-full-text-url="/s/full-text/viewing:130482073/">
+            <p>
+             I feel about Anya Taylor Joy in this the way 2012 tumblr girls felt about Benedict Cumberbatch in Sherlock
+            </p>
+           </div>
+           <p class="like-link-target react-component -monotone" data-component-class="globals.comps.LikeLinkComponent" data-format="svg" data-likeable="true" data-likeable-name="review" data-likeable-uid="viewing:130482073" data-likes-page="/sonnywortzik/film/the-queens-gambit/likes/" data-owner="sonnywortzik">
+            <span class="svg-action -like">
+            </span>
+           </p>
+          </div>
+         </li>
+         <li class="film-detail" data-person="pizzapIanet" data-viewing-id="130828733">
+          <a class="avatar -a40" href="/pizzapianet/">
+           <img alt="stef" height="40" src="https://a.ltrbxd.com/resized/avatar/twitter/7/5/5/4/3/1/shard/blob-0-80-0-80-crop.png?k=0b66601765" width="40"/>
+          </a>
+          <div class="film-detail-content">
+           <div class="attribution-block -large">
+            <p class="attribution">
+             <a class="context" href="/pizzapianet/film/the-queens-gambit/" title="Read stef’s review">
+              Review by
+              <strong class="name">
+               stef
+              </strong>
+             </a>
+             <span class="rating -green rated-10">
+              ★★★★★
+             </span>
+             <span class="content-metadata">
+              <a class="has-icon icon-comment icon-16 comment-count" href="/pizzapianet/film/the-queens-gambit/">
+               11
+              </a>
+             </span>
+            </p>
+           </div>
+           <div class="body-text -prose collapsible-text" data-full-text-url="/s/full-text/viewing:130828733/">
+            <p>
+             i admire them for not even attempting to explain to us how chess works
+            </p>
+           </div>
+           <p class="like-link-target react-component -monotone" data-component-class="globals.comps.LikeLinkComponent" data-format="svg" data-likeable="true" data-likeable-name="review" data-likeable-uid="viewing:130828733" data-likes-page="/pizzapianet/film/the-queens-gambit/likes/" data-owner="pizzapIanet">
+            <span class="svg-action -like">
+            </span>
+           </p>
+          </div>
+         </li>
+         <li class="film-detail" data-person="cineflek" data-viewing-id="132699335">
+          <a class="avatar -a40" href="/cineflek/">
+           <img alt="Ethan Colburn" height="40" src="https://a.ltrbxd.com/resized/avatar/upload/9/5/9/5/4/8/shard/avtr-0-80-0-80-crop.jpg?k=f4d21d8434" width="40"/>
+          </a>
+          <div class="film-detail-content">
+           <div class="attribution-block -large">
+            <p class="attribution">
+             <a class="context" href="/cineflek/film/the-queens-gambit/" title="Read Ethan Colburn’s review">
+              Review by
+              <strong class="name">
+               Ethan Colburn
+              </strong>
+             </a>
+             <span class="rating -green rated-9">
+              ★★★★½
+             </span>
+             <span class="content-metadata">
+              <a class="has-icon icon-comment icon-16 comment-count" href="/cineflek/film/the-queens-gambit/">
+               65
+              </a>
+             </span>
+            </p>
+           </div>
+           <div class="body-text -prose collapsible-text" data-full-text-url="/s/full-text/viewing:132699335/">
+            <p>
+             If Anya Taylor-Joy and Harry Melling had children, their kids’ eyes would be the right distance apart.
+            </p>
+           </div>
+           <p class="like-link-target react-component -monotone" data-component-class="globals.comps.LikeLinkComponent" data-format="svg" data-likeable="true" data-likeable-name="review" data-likeable-uid="viewing:132699335" data-likes-page="/cineflek/film/the-queens-gambit/likes/" data-owner="cineflek">
+            <span class="svg-action -like">
+            </span>
+           </p>
+          </div>
+         </li>
+         <li class="film-detail" data-person="bratpitt" data-viewing-id="134834705">
+          <a class="avatar -a40" href="/bratpitt/">
+           <img alt="BRAT" height="40" src="https://secure.gravatar.com/avatar/d31a4b9508ddd892eb3f904c6ce6bd2d?rating=PG&amp;size=80&amp;border=&amp;default=https%3A%2F%2Fs.ltrbxd.com%2Fstatic%2Fimg%2Favatar80.74798e0d.png" width="40"/>
+          </a>
+          <div class="film-detail-content">
+           <div class="attribution-block -large">
+            <p class="attribution">
+             <a class="context" href="/bratpitt/film/the-queens-gambit/" title="Read BRAT’s review">
+              Review by
+              <strong class="name">
+               BRAT
+              </strong>
+             </a>
+             <span class="rating -green rated-7">
+              ★★★½
+             </span>
+             <span class="content-metadata">
+              <a class="has-icon icon-comment icon-16 comment-count" href="/bratpitt/film/the-queens-gambit/">
+               26
+              </a>
+             </span>
+            </p>
+           </div>
+           <div class="body-text -prose collapsible-text" data-full-text-url="/s/full-text/viewing:134834705/">
+            <p class="contains-spoilers" data-film-id="668077">
+             This review may contain spoilers.
+             <a class="reveal js-reveal" href="/bratpitt/film/the-queens-gambit/">
+              I can handle the truth.
+             </a>
+            </p>
+            <div class="hidden-spoilers expanded-text" data-film-id="668077">
+             <p>
+              an unexpectedly edgy, introspective exploration of female desire and obsession wrapped up in the guise of a straight-laced chess drama (once you get past the lifeless-but-necessary first episode). all bisexual girl geniuses know how to do is smoke weed, pwn boys at chess, doink french models, unhealthily cope with childhood trauma, and lie
+             </p>
+            </div>
+           </div>
+           <p class="like-link-target react-component -monotone" data-component-class="globals.comps.LikeLinkComponent" data-format="svg" data-likeable="true" data-likeable-name="review" data-likeable-uid="viewing:134834705" data-likes-page="/bratpitt/film/the-queens-gambit/likes/" data-owner="bratpitt">
+            <span class="svg-action -like">
+            </span>
+           </p>
+          </div>
+         </li>
+         <li class="film-detail" data-person="Kurstboy" data-viewing-id="138303101">
+          <a class="avatar -a40" href="/kurstboy/">
+           <img alt="karsten" height="40" src="https://a.ltrbxd.com/resized/avatar/twitter/4/9/0/4/5/7/shard/http___pbs.twimg.com_profile_images_1001935353740177414_9ZQ0Noe4-0-80-0-80-crop.jpg?k=9c800e12d6" width="40"/>
+          </a>
+          <div class="film-detail-content">
+           <div class="attribution-block -large">
+            <p class="attribution">
+             <a class="context" href="/kurstboy/film/the-queens-gambit/" title="Read karsten’s review">
+              Review by
+              <strong class="name">
+               karsten
+              </strong>
+             </a>
+             <span class="rating -green rated-7">
+              ★★★½
+             </span>
+             <span class="content-metadata">
+              <a class="has-icon icon-comment icon-16 comment-count" href="/kurstboy/film/the-queens-gambit/">
+               23
+              </a>
+             </span>
+            </p>
+           </div>
+           <div class="body-text -prose collapsible-text" data-full-text-url="/s/full-text/viewing:138303101/">
+            <p>
+             Anya Taylor-Joy has done so much and is still someone whose career I’m so excited to watch progress. This is fun as hell! And the editing is sexy. If nothing else, it made me download a chess app that I deleted less than 10 minutes later!
+            </p>
+           </div>
+           <p class="like-link-target react-component -monotone" data-component-class="globals.comps.LikeLinkComponent" data-format="svg" data-likeable="true" data-likeable-name="review" data-likeable-uid="viewing:138303101" data-likes-page="/kurstboy/film/the-queens-gambit/likes/" data-owner="Kurstboy">
+            <span class="svg-action -like">
+            </span>
+           </p>
+          </div>
+         </li>
+         <li class="film-detail" data-person="LUMPYPRESS" data-viewing-id="130961687">
+          <a class="avatar -a40" href="/lumpypress/">
+           <img alt="LUMPYPRESS" height="40" src="https://a.ltrbxd.com/resized/avatar/upload/3/5/5/4/0/5/shard/avtr-0-80-0-80-crop.jpg?k=c40be84af6" width="40"/>
+          </a>
+          <div class="film-detail-content">
+           <div class="attribution-block -large">
+            <p class="attribution">
+             <a class="context" href="/lumpypress/film/the-queens-gambit/" title="Read LUMPYPRESS’s review">
+              Review by
+              <strong class="name">
+               LUMPYPRESS
+              </strong>
+             </a>
+             <span class="rating -green rated-9">
+              ★★★★½
+             </span>
+             <span class="content-metadata">
+              <a class="has-icon icon-comment icon-16 comment-count" href="/lumpypress/film/the-queens-gambit/">
+               2
+              </a>
+             </span>
+            </p>
+           </div>
+           <div class="body-text -prose collapsible-text" data-full-text-url="/s/full-text/viewing:130961687/">
+            <p>
+             Great. Now I'm horny for chess.
+            </p>
+           </div>
+           <p class="like-link-target react-component -monotone" data-component-class="globals.comps.LikeLinkComponent" data-format="svg" data-likeable="true" data-likeable-name="review" data-likeable-uid="viewing:130961687" data-likes-page="/lumpypress/film/the-queens-gambit/likes/" data-owner="LUMPYPRESS">
+            <span class="svg-action -like">
+            </span>
+           </p>
+          </div>
+         </li>
+         <li class="film-detail" data-person="IncrediblyBleak" data-viewing-id="130552646">
+          <a class="avatar -a40" href="/incrediblybleak/">
+           <img alt="adam" height="40" src="https://a.ltrbxd.com/resized/avatar/upload/3/4/0/6/7/2/shard/avtr-0-80-0-80-crop.jpg?k=19ddb27a1e" width="40"/>
+          </a>
+          <div class="film-detail-content">
+           <div class="attribution-block -large">
+            <p class="attribution">
+             <a class="context" href="/incrediblybleak/film/the-queens-gambit/" title="Read adam’s review">
+              Review by
+              <strong class="name">
+               adam
+              </strong>
+             </a>
+             <span class="rating -green rated-9">
+              ★★★★½
+             </span>
+             <span class="content-metadata">
+              <a class="has-icon icon-comment icon-16 comment-count" href="/incrediblybleak/film/the-queens-gambit/">
+               5
+              </a>
+             </span>
+            </p>
+           </div>
+           <div class="body-text -prose collapsible-text" data-full-text-url="/s/full-text/viewing:130552646/">
+            <p>
+             her eyeliner .. i can hear god
+            </p>
+           </div>
+           <p class="like-link-target react-component -monotone" data-component-class="globals.comps.LikeLinkComponent" data-format="svg" data-likeable="true" data-likeable-name="review" data-likeable-uid="viewing:130552646" data-likes-page="/incrediblybleak/film/the-queens-gambit/likes/" data-owner="IncrediblyBleak">
+            <span class="svg-action -like">
+            </span>
+           </p>
+          </div>
+         </li>
+         <li class="film-detail" data-person="sapphical" data-viewing-id="130709039">
+          <a class="avatar -a40" href="/sapphical/">
+           <img alt="aliyah" height="40" src="https://secure.gravatar.com/avatar/96cdc29ae916960042646e3a479752d0?rating=PG&amp;size=80&amp;border=&amp;default=https%3A%2F%2Fs.ltrbxd.com%2Fstatic%2Fimg%2Favatar80.74798e0d.png" width="40"/>
+          </a>
+          <div class="film-detail-content">
+           <div class="attribution-block -large">
+            <p class="attribution">
+             <a class="context" href="/sapphical/film/the-queens-gambit/" title="Read aliyah’s review">
+              Review by
+              <strong class="name">
+               aliyah
+              </strong>
+             </a>
+             <span class="rating -green rated-10">
+              ★★★★★
+             </span>
+             <span class="content-metadata">
+              <a class="has-icon icon-comment icon-16 comment-count" href="/sapphical/film/the-queens-gambit/">
+               1
+              </a>
+             </span>
+            </p>
+           </div>
+           <div class="body-text -prose collapsible-text" data-full-text-url="/s/full-text/viewing:130709039/">
+            <p>
+             if i’d written a list of things that i thought i would’ve done in 2020, crying over chess probably would’ve came in at absolutely dead last... and yet here we are
+            </p>
+           </div>
+           <p class="like-link-target react-component -monotone" data-component-class="globals.comps.LikeLinkComponent" data-format="svg" data-likeable="true" data-likeable-name="review" data-likeable-uid="viewing:130709039" data-likes-page="/sapphical/film/the-queens-gambit/likes/" data-owner="sapphical">
+            <span class="svg-action -like">
+            </span>
+           </p>
+          </div>
+         </li>
+         <li class="film-detail" data-person="IoganIerman" data-viewing-id="130233445">
+          <a class="avatar -a40" href="/ioganierman/">
+           <img alt="jeremy" height="40" src="https://a.ltrbxd.com/resized/avatar/twitter/3/4/6/9/6/0/shard/http___pbs.twimg.com_profile_images_1476908991033016323_2PKIuQje-0-80-0-80-crop.jpg?k=78bf61ff85" width="40"/>
+          </a>
+          <div class="film-detail-content">
+           <div class="attribution-block -large">
+            <p class="attribution">
+             <a class="context" href="/ioganierman/film/the-queens-gambit/" title="Read jeremy’s review">
+              Review by
+              <strong class="name">
+               jeremy
+              </strong>
+             </a>
+             <span class="rating -green rated-8">
+              ★★★★
+             </span>
+             <span class="content-metadata">
+              <a class="has-icon icon-comment icon-16 comment-count" href="/ioganierman/film/the-queens-gambit/">
+               10
+              </a>
+             </span>
+            </p>
+           </div>
+           <div class="body-text -prose collapsible-text" data-full-text-url="/s/full-text/viewing:130233445/">
+            <p>
+             I THINK WE CAN ALL AGREE THAT ANYA TAYLOR-JOY
+            </p>
+           </div>
+           <p class="like-link-target react-component -monotone" data-component-class="globals.comps.LikeLinkComponent" data-format="svg" data-likeable="true" data-likeable-name="review" data-likeable-uid="viewing:130233445" data-likes-page="/ioganierman/film/the-queens-gambit/likes/" data-owner="IoganIerman">
+            <span class="svg-action -like">
+            </span>
+           </p>
+          </div>
+         </li>
+         <li class="film-detail" data-person="dodi_" data-viewing-id="130403449">
+          <a class="avatar -a40" href="/dodi_/">
+           <img alt="dodi" height="40" src="https://a.ltrbxd.com/resized/avatar/upload/6/5/9/6/8/4/shard/avtr-0-80-0-80-crop.jpg?k=b8a3453baa" width="40"/>
+          </a>
+          <div class="film-detail-content">
+           <div class="attribution-block -large">
+            <p class="attribution">
+             <a class="context" href="/dodi_/film/the-queens-gambit/" title="Read dodi’s review">
+              Review by
+              <strong class="name">
+               dodi
+              </strong>
+             </a>
+             <span class="rating -green rated-9">
+              ★★★★½
+             </span>
+             <span class="content-metadata">
+              <a class="has-icon icon-comment icon-16 comment-count" href="/dodi_/film/the-queens-gambit/">
+               2
+              </a>
+             </span>
+            </p>
+           </div>
+           <div class="body-text -prose collapsible-text" data-full-text-url="/s/full-text/viewing:130403449/">
+            <p>
+             Anya Taylor-Joy looking beautiful, being chaotic, and crushing men all around the world is right up my alley
+            </p>
+            <p>
+             but seriously, this is such a bingeable miniseries. hits the right notes for suspense, and even emotionally by the end as you get to know the main character – through a wonderful performance from Anya. the set and costume designs are beautiful, and I will probably listen to the score later again. Netflix’s miniseries game is definitely strong this October!
+            </p>
+           </div>
+           <p class="like-link-target react-component -monotone" data-component-class="globals.comps.LikeLinkComponent" data-format="svg" data-likeable="true" data-likeable-name="review" data-likeable-uid="viewing:130403449" data-likes-page="/dodi_/film/the-queens-gambit/likes/" data-owner="dodi_">
+            <span class="svg-action -like">
+            </span>
+           </p>
+          </div>
+         </li>
+        </ul>
+       </section>
+       <div class="js-csi" data-on-load="csi-recent-reviews" data-src="/csi/film/the-queens-gambit/recent-reviews/">
+       </div>
+       <div class="js-csi" data-on-load="csi-liked-reviews" data-src="/csi/film/the-queens-gambit/liked-reviews/?esiAllowUser=true">
+       </div>
+      </section>
+      <section class="section related-films">
+       <h2 class="section-heading">
+        <a href="/film/the-queens-gambit/similar/">
+         Similar Films
+        </a>
+       </h2>
+       <div class="all-link more-link">
+        <a href="/film/the-queens-gambit/similar/">
+         All
+        </a>
+       </div>
+       <ul class="poster-list -p110 -horizontal -scaled104">
+        <li class="poster-container">
+         <div class="really-lazy-load poster film-poster film-poster-171961 linked-film-poster" data-cache-busting-key="10a9a518" data-film-id="171961" data-film-slug="/film/pawn-sacrifice/" data-image-height="165" data-image-width="110" data-linked="linked" data-show-menu="true" data-target-link="/film/pawn-sacrifice/" data-target-link-target="">
+          <img alt="Pawn Sacrifice" class="image" height="165" src="https://s.ltrbxd.com/static/img/empty-poster-110.e0cbb286.png" width="110"/>
+          <span class="frame">
+           <span class="frame-title">
+           </span>
+          </span>
+         </div>
+        </li>
+        <li class="poster-container">
+         <div class="really-lazy-load poster film-poster film-poster-71927 linked-film-poster" data-cache-busting-key="1c7cd6a1" data-film-id="71927" data-film-slug="/film/boyhood/" data-image-height="165" data-image-width="110" data-linked="linked" data-show-menu="true" data-target-link="/film/boyhood/" data-target-link-target="">
+          <img alt="Boyhood" class="image" height="165" src="https://s.ltrbxd.com/static/img/empty-poster-110.e0cbb286.png" width="110"/>
+          <span class="frame">
+           <span class="frame-title">
+           </span>
+          </span>
+         </div>
+        </li>
+        <li class="poster-container">
+         <div class="really-lazy-load poster film-poster film-poster-2704 linked-film-poster" data-cache-busting-key="77f8c26f" data-film-id="2704" data-film-slug="/film/forrest-gump/" data-image-height="165" data-image-width="110" data-linked="linked" data-show-menu="true" data-target-link="/film/forrest-gump/" data-target-link-target="">
+          <img alt="Forrest Gump" class="image" height="165" src="https://s.ltrbxd.com/static/img/empty-poster-110.e0cbb286.png" width="110"/>
+          <span class="frame">
+           <span class="frame-title">
+           </span>
+          </span>
+         </div>
+        </li>
+        <li class="poster-container">
+         <div class="really-lazy-load poster film-poster film-poster-51621 linked-film-poster" data-cache-busting-key="461d320a" data-film-id="51621" data-film-slug="/film/good-will-hunting/" data-image-height="165" data-image-width="110" data-linked="linked" data-show-menu="true" data-target-link="/film/good-will-hunting/" data-target-link-target="">
+          <img alt="Good Will Hunting" class="image" height="165" src="https://s.ltrbxd.com/static/img/empty-poster-110.e0cbb286.png" width="110"/>
+          <span class="frame">
+           <span class="frame-title">
+           </span>
+          </span>
+         </div>
+        </li>
+        <li class="poster-container">
+         <div class="really-lazy-load poster film-poster film-poster-51728 linked-film-poster" data-cache-busting-key="44a76085" data-film-id="51728" data-film-slug="/film/magnolia/" data-image-height="165" data-image-width="110" data-linked="linked" data-show-menu="true" data-target-link="/film/magnolia/" data-target-link-target="">
+          <img alt="Magnolia" class="image" height="165" src="https://s.ltrbxd.com/static/img/empty-poster-110.e0cbb286.png" width="110"/>
+          <span class="frame">
+           <span class="frame-title">
+           </span>
+          </span>
+         </div>
+        </li>
+        <li class="poster-container">
+         <div class="really-lazy-load poster film-poster film-poster-404046 linked-film-poster" data-cache-busting-key="68fa11b9" data-film-id="404046" data-film-slug="/film/the-goldfinch/" data-image-height="165" data-image-width="110" data-linked="linked" data-show-menu="true" data-target-link="/film/the-goldfinch/" data-target-link-target="">
+          <img alt="The Goldfinch" class="image" height="165" src="https://s.ltrbxd.com/static/img/empty-poster-110.e0cbb286.png" width="110"/>
+          <span class="frame">
+           <span class="frame-title">
+           </span>
+          </span>
+         </div>
+        </li>
+       </ul>
+       <div class="nanocrowd-attribution -is-not-stacked">
+        <span class="title">
+         Powered by
+        </span>
+        <a href="https://nanocrowd.com" rel="noopener noreferrer" target="_blank">
+         <svg aria-hidden="true" class="glyph" height="14" role="presentation" viewbox="0 0 14 14" width="14" xmlns="http://www.w3.org/2000/svg">
+          <path class="matte" d="M1.5 1.5h11v11h-11z" fill-opacity="0">
+          </path>
+          <path class="shape" d="M12 0a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V2a2 2 0 0 1 2-2h10ZM7.603 4.803c-.453 0-.885.1-1.293.3-.272.132-.542.463-.81.994V5H4v7h1.5l-.012-4.931c.309-.261.583-.4.904-.562.306-.155.598-.23.876-.23.287 0 .398-.002.693.114.295.116.465.935.496 1.21.033.293.05.61.05.952L8.5 12H10V8c0-.994-.223-1.823-.69-2.368-.473-.552-.885-.829-1.707-.829ZM10 2H4v1.4h6V2Z">
+          </path>
+         </svg>
+         <span class="label">
+          Nanocrowd
+         </span>
+        </a>
+       </div>
+      </section>
+      <section class="section" id="film-hq-mentions">
+       <h2 class="section-heading">
+        Mentioned by
+       </h2>
+       <ul class="avatar-list -a72 -spaced">
+        <li>
+         <a class="watchedstate-avatar story tooltip" href="/festiville/story/lido-dreams-in-anticipation-of-venice-2021/" title="Story by Festiville">
+          <span class="avatar -a72">
+           <img alt="Festiville" height="72" src="https://a.ltrbxd.com/resized/avatar/upload/3/5/1/3/1/3/5/shard/avtr-0-144-0-144-crop.jpg?k=8e1d1458be" width="72"/>
+          </span>
+          <span class="story">
+           Story by Festiville
+          </span>
+         </a>
+        </li>
+       </ul>
+      </section>
+      <div class="js-csi" data-on-load="csi-popular-lists" data-src="/csi/film/the-queens-gambit/popular-lists/">
+      </div>
+     </div>
+     <div class="clear">
+     </div>
+    </div>
+   </div>
+  </div>
+  <footer class="page-footer js-page-footer js-hide-in-app" id="page-footer">
+   <div class="content-wrap">
+    <nav class="footer-nav js-footer-nav">
+     <ul>
+      <li>
+       <a href="/about/">
+        About
+       </a>
+      </li>
+      <li>
+       <a href="/journal/">
+        News
+       </a>
+      </li>
+      <li class="js-hide-in-app">
+       <a href="/pro/">
+        Pro
+       </a>
+      </li>
+      <li>
+       <a href="/apps/">
+        Apps
+       </a>
+      </li>
+      <li>
+       <a href="https://letterboxd.show" rel="noopener noreferrer" target="_blank">
+        Podcast
+       </a>
+      </li>
+      <li>
+       <a href="/year-in-review/">
+        Year in Review
+       </a>
+      </li>
+      <li>
+       <a href="/gift-guide/">
+        Gift Guide
+       </a>
+      </li>
+      <li>
+       <a href="/welcome/">
+        Help
+       </a>
+      </li>
+      <li>
+       <a href="/legal/terms-of-use/">
+        Terms
+       </a>
+      </li>
+      <li>
+       <a href="/api-beta/">
+        API
+       </a>
+      </li>
+      <li>
+       <a href="/contact/">
+        Contact
+       </a>
+      </li>
+     </ul>
+    </nav>
+    <div class="socials">
+     <nav class="social-service-list -inline">
+      <div class="listitem -icononly">
+       <a class="trigger tooltip" href="https://twitter.com/letterboxd" rel="noopener noreferrer" target="_blank" title="Letterboxd on Twitter">
+        <svg aria-hidden="true" class="glyph" height="16" role="presentation" width="20" xmlns="http://www.w3.org/2000/svg">
+         <path d="M17.96 4.51V4c.8-.56 1.49-1.28 2.04-2.1-.74.33-1.53.54-2.36.65.85-.5 1.5-1.3 1.8-2.24-.78.46-1.66.8-2.6.98a4.13 4.13 0 0 0-7.1 2.76c0 .31.04.62.1.92A11.72 11.72 0 0 1 1.38.74a3.99 3.99 0 0 0 1.28 5.4A4.2 4.2 0 0 1 .8 5.62v.06c0 1.95 1.42 3.59 3.29 3.96a4.06 4.06 0 0 1-1.85.07 4.1 4.1 0 0 0 3.83 2.8A8.32 8.32 0 0 1 0 14.2C1.8 15.33 3.97 16 6.28 16A11.5 11.5 0 0 0 17.96 4.51Z">
+         </path>
+        </svg>
+        <span class="label">
+         Twitter
+        </span>
+       </a>
+      </div>
+      <div class="listitem -icononly">
+       <a class="trigger tooltip" href="https://www.facebook.com/letterboxd" rel="noopener noreferrer" target="_blank" title="Letterboxd on Facebook">
+        <svg aria-hidden="true" class="glyph" height="19" role="presentation" width="19" xmlns="http://www.w3.org/2000/svg">
+         <path d="M9.5 0a9.5 9.5 0 0 0-1.48 18.89V12H5.6V9.25h2.42V7.41c0-2.38 1.41-3.7 3.58-3.7 1.04 0 2.13.19 2.13.19v2.33h-1.2c-1.18 0-1.54.74-1.54 1.49v1.53h2.63L13.2 12h-2.21v6.89A9.5 9.5 0 0 0 9.5 0Z">
+         </path>
+        </svg>
+        <span class="label">
+         Facebook
+        </span>
+       </a>
+      </div>
+      <div class="listitem -icononly">
+       <a class="trigger tooltip" href="https://www.instagram.com/letterboxd" rel="noopener noreferrer" target="_blank" title="Letterboxd on Instagram">
+        <svg aria-hidden="true" class="glyph" height="20" role="presentation" width="20" xmlns="http://www.w3.org/2000/svg">
+         <path d="M14.12.06c1.07.05 1.8.22 2.43.46.66.26 1.21.6 1.77 1.16.56.55.9 1.11 1.15 1.77.25.63.42 1.36.47 2.43.04.94.06 1.32.06 3.3v1.37c0 1.54 0 2.19-.03 2.77v.22l-.03.58a7.34 7.34 0 0 1-.47 2.43 4.9 4.9 0 0 1-1.15 1.77 4.9 4.9 0 0 1-1.77 1.16c-.64.24-1.36.41-2.43.46l-.61.03h-.23c-.5.02-1.06.03-2.21.03H9.2c-2 0-2.37-.02-3.32-.06a7.34 7.34 0 0 1-2.43-.46 4.9 4.9 0 0 1-1.77-1.16 4.9 4.9 0 0 1-1.16-1.77 7.34 7.34 0 0 1-.46-2.43l-.03-.61v-.2A60.9 60.9 0 0 1 0 11.5V8.75C0 7.7.01 7.17.03 6.7v-.2l.03-.61C.1 4.8.28 4.08.52 3.45a4.9 4.9 0 0 1 1.16-1.77A4.9 4.9 0 0 1 3.45.52 7.34 7.34 0 0 1 5.88.06l.61-.03h.2C7.12 0 7.6 0 8.5 0h2.74c1.62 0 2 .02 2.88.06ZM11.02 2H8.97c-1.7 0-2.05.02-2.92.06a5.4 5.4 0 0 0-1.82.33c-.45.18-.78.39-1.12.73-.34.34-.55.67-.73 1.12-.13.35-.3.86-.33 1.82C2.02 6.93 2 7.29 2 8.98v2.04c0 1.7.02 2.05.06 2.92.04.95.2 1.47.33 1.81.18.46.39.78.73 1.13.34.34.67.55 1.12.73.35.13.86.29 1.82.33.83.04 1.2.05 2.7.06h2.47c1.51 0 1.87-.02 2.71-.06a5.4 5.4 0 0 0 1.81-.33c.46-.18.78-.4 1.12-.73.35-.35.56-.67.73-1.13.14-.34.3-.86.34-1.8a49 49 0 0 0 .06-2.72V8.77a49 49 0 0 0-.06-2.71 5.4 5.4 0 0 0-.34-1.82 3.02 3.02 0 0 0-.73-1.12 3.02 3.02 0 0 0-1.12-.73 5.4 5.4 0 0 0-1.81-.33c-.88-.04-1.23-.06-2.93-.06ZM10 4.86a5.14 5.14 0 1 1 0 10.28 5.14 5.14 0 0 1 0-10.28ZM10 7a3 3 0 1 0 0 6 3 3 0 0 0 0-6Zm5.25-3.5a1.25 1.25 0 1 1 0 2.5 1.25 1.25 0 0 1 0-2.5Z">
+         </path>
+        </svg>
+        <span class="label">
+         Instagram
+        </span>
+       </a>
+      </div>
+      <div class="listitem -icononly">
+       <a class="trigger tooltip" href="https://www.youtube.com/c/letterboxdhq" rel="noopener noreferrer" target="_blank" title="Letterboxd on YouTube">
+        <svg aria-hidden="true" class="glyph" height="16" role="presentation" width="23" xmlns="http://www.w3.org/2000/svg">
+         <path d="M11.74 0c.61 0 2.33.02 4.11.08l.54.02c1.7.06 3.35.18 4.1.38a2.87 2.87 0 0 1 2.03 2.02c.45 1.67.48 5.04.48 5.46v.08c0 .42-.03 3.8-.48 5.46a2.87 2.87 0 0 1-2.03 2.02c-.75.2-2.4.32-4.1.38l-.54.02c-1.78.07-3.5.08-4.11.08H11.26c-.62 0-2.33-.01-4.11-.08l-.54-.02c-1.7-.06-3.36-.18-4.1-.38A2.87 2.87 0 0 1 .48 13.5C.04 11.9 0 8.68 0 8.1v-.2c0-.58.04-3.79.48-5.4A2.87 2.87 0 0 1 2.5.48c.74-.2 2.4-.32 4.1-.38l.54-.02C8.93.02 10.65 0 11.26 0ZM9 4.57v6.86L15 8 9 4.57Z">
+         </path>
+        </svg>
+        <span class="label">
+         YouTube
+        </span>
+       </a>
+      </div>
+      <div class="listitem -icononly">
+       <a class="trigger tooltip" href="https://www.tiktok.com/@letterboxdhq" rel="noopener noreferrer" target="_blank" title="Letterboxd on TikTok">
+        <svg aria-hidden="true" class="glyph" height="18" role="presentation" width="17" xmlns="http://www.w3.org/2000/svg">
+         <path d="M16.48 4.32a4.62 4.62 0 0 1-3.92-2.66A4.04 4.04 0 0 1 12.23 0H9.07v11.85c0 1.93-1.19 3.07-2.65 3.07a2.71 2.71 0 0 1-2.04-.9 2.57 2.57 0 0 1-.6-2.1 2.55 2.55 0 0 1 1.26-1.81 2.7 2.7 0 0 1 2.24-.21V6.77a5.92 5.92 0 0 0-4.08.86 5.7 5.7 0 0 0-2.15 2.55 5.53 5.53 0 0 0 1.26 6.16 5.86 5.86 0 0 0 6.33 1.23 5.78 5.78 0 0 0 2.6-2.08c.64-.94.98-2.03.98-3.15V5.96a7.74 7.74 0 0 0 4.25 1.25V4.32Z">
+         </path>
+        </svg>
+        <span class="label">
+         TikTok
+        </span>
+       </a>
+      </div>
+     </nav>
+    </div>
+    <p class="copyright">
+     © Letterboxd Limited. Made by
+     <a class="mute" href="/crew/">
+      fans
+     </a>
+     in Aotearoa.
+     <span class="nobr">
+      <a class="mute" href="https://letterboxd.com/about/film-data/">
+       Film data
+      </a>
+      from
+      <a class="mute" href="https://www.themoviedb.org">
+       TMDb
+      </a>
+      .
+      <a class="mute mobile-site-switch" data-use-mobile-site="yes" href="#">
+       Mobile site
+      </a>
+      .
+     </span>
+     <span class="recap" style="display:none">
+      <br/>
+      This site is protected by reCAPTCHA and the Google
+      <a class="mute" href="https://policies.google.com/privacy" rel="noopener noreferrer" target="_blank">
+       privacy policy
+      </a>
+      and
+      <a class="mute" href="https://policies.google.com/terms" rel="noopener noreferrer" target="_blank">
+       terms of service
+      </a>
+      apply.
+     </span>
+    </p>
+   </div>
+  </footer>
+  <script type="application/ld+json">
+   /* <![CDATA[ */
+{"image":"https://a.ltrbxd.com/resized/film-poster/6/6/8/0/7/7/668077-the-queen-s-gambit-0-230-0-345-crop.jpg?k=e675bc48df","@type":"Movie","director":[{"@type":"Person","name":"Scott Frank","sameAs":"/director/scott-frank/"}],"dateModified":"2022-03-19","productionCompany":[{"@type":"Organization","name":"Flitcraft","sameAs":"/studio/flitcraft/"},{"@type":"Organization","name":"Wonderful Films","sameAs":"/studio/wonderful-films/"}],"releasedEvent":[{"@type":"PublicationEvent","startDate":"2020"}],"@context":"http://schema.org","url":"https://letterboxd.com/film/the-queens-gambit/","actors":[{"@type":"Person","name":"Anya Taylor-Joy","sameAs":"/actor/anya-taylor-joy/"},{"@type":"Person","name":"Isla Johnston","sameAs":"/actor/isla-johnston/"},{"@type":"Person","name":"Bill Camp","sameAs":"/actor/bill-camp/"},{"@type":"Person","name":"Marielle Heller","sameAs":"/actor/marielle-heller/"},{"@type":"Person","name":"Moses Ingram","sameAs":"/actor/moses-ingram/"},{"@type":"Person","name":"Chloe Pirrie","sameAs":"/actor/chloe-pirrie/"},{"@type":"Person","name":"Marcin Dorociński","sameAs":"/actor/marcin-dorocinski-1/"},{"@type":"Person","name":"Thomas Brodie-Sangster","sameAs":"/actor/thomas-brodie-sangster-1/"},{"@type":"Person","name":"Jacob Fortune-Lloyd","sameAs":"/actor/jacob-fortune-lloyd/"},{"@type":"Person","name":"Harry Melling","sameAs":"/actor/harry-melling/"}],"dateCreated":"2020-09-26","name":"The Queen's Gambit","genre":["Drama"],"@id":"https://letterboxd.com/film/the-queens-gambit/","countryOfOrigin":[{"@type":"Country","name":"USA"}],"aggregateRating":{"bestRating":5,"reviewCount":38007,"@type":"aggregateRating","ratingValue":4.27,"description":"The Letterboxd rating is a weighted average score for a movie based on all ratings cast to date by our members.","ratingCount":283075,"worstRating":0}}
+/* ]]> */
+  </script>
+  <div aria-hidden="true" aria-labelledby="remove-ads-modal-title" class="modal-neue -fade" id="remove-ads-modal" tabindex="-1">
+   <div class="modal-dialog -sm modal-dialog-centered">
+    <div class="modal-content">
+     <div class="modal-header">
+      <h5 class="modal-title" id="remove-ads-modal-title">
+       Upgrade to remove ads
+      </h5>
+      <button aria-label="Close" class="close" data-bs-dismiss="modal" type="button">
+       <svg class="glyph" height="16" width="16" xmlns="http://www.w3.org/2000/svg">
+        <g fill="none" fill-rule="evenodd" stroke="#000" stroke-linecap="round" stroke-width="2">
+         <path d="m1 1 14 14M1 15 15 1">
+         </path>
+        </g>
+       </svg>
+      </button>
+     </div>
+     <div class="modal-body">
+      <div class="body-text -hero">
+       <p>
+        Letterboxd is an independent service created by a small team, and we rely mostly on the support of our members to maintain our site and apps. Please consider upgrading to a
+        <a href="/pro/">
+         Pro account
+        </a>
+        —for less than a couple bucks a month, you’ll get cool additional features like all-time and annual stats pages (
+        <a href="https://letterboxd.com/jack/stats/">
+         example
+        </a>
+        ), the ability to select (and filter by) your favorite streaming services, and no ads!
+       </p>
+      </div>
+     </div>
+     <div class="modal-footer">
+      <a class="button -action button-action" href="/pro/">
+       Tell me about Pro
+      </a>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="amzn-assoc-ad-005023c4-ceba-4708-8b0a-e9727b3931e9">
+  </div>
+  <script async="" src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&amp;adInstanceId=005023c4-ceba-4708-8b0a-e9727b3931e9">
+  </script>
+ </body>
+</html>
+

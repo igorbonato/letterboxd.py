@@ -3,6 +3,7 @@
 Created on Fri Nov 27 21:44:11 2020
 @author: Leonardo
 """
+
 from collections import Counter
 import requests
 from bs4 import BeautifulSoup
@@ -39,17 +40,16 @@ def pages(page, usuario):
     return elenco
 
 
-def cast1(path):
-    s = requests.get(path, timeout=5)
-    conteudo = BeautifulSoup(s.content)
-    p = conteudo.select("div.cast-list p a")
-    pessoas = [pessoa.string for pessoa in p]
-    if 'Show All…' in pessoas:
-        pessoas.remove("Show All…")
-    j = conteudo.select("h1.headline-1")
-    nome = [ji.string for ji in j][0]
-    return nome, pessoas
-
+# def cast1(path):
+#     s = requests.get(path, timeout=5)
+#     conteudo = BeautifulSoup(s.content)
+#     p = conteudo.select("div.cast-list p a")
+#     pessoas = [pessoa.string for pessoa in p]
+#     if 'Show All…' in pessoas:
+#         pessoas.remove("Show All…")
+#     j = conteudo.select("h1.headline-1")
+#     nome = [ji.string for ji in j][0]
+#     return nome, pessoas
 
 def avaliar(lista):
     contagem = []

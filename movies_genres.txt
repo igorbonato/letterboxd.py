@@ -1,0 +1,20 @@
+Sem Genero:2
+western:7
+tv-movie:10
+documentary:20
+war:35
+history:39
+music:60
+mystery:116
+science-fiction:119
+animation:123
+crime:135
+family:159
+horror:169
+fantasy:177
+action:192
+adventure:198
+thriller:254
+romance:347
+comedy:530
+drama:705
